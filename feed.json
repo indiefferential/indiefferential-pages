@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Indiefferential Magazine",
+    "description": "",
+    "home_page_url": "https://indiefferential.github.io/indiefferential-pages",
+    "feed_url": "https://indiefferential.github.io/indiefferential-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Indiefferential Team"
+    },
+    "items": [
+        {
+            "id": "https://indiefferential.github.io/indiefferential-pages/new-post.html",
+            "url": "https://indiefferential.github.io/indiefferential-pages/new-post.html",
+            "title": "New Post",
+            "summary": "New post",
+            "content_html": "<p>New post</p>",
+            "author": {
+                "name": "Indiefferential Team"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-12-27T02:23:59+02:00",
+            "date_modified": "2024-12-27T02:23:59+02:00"
+        }
+    ]
+}

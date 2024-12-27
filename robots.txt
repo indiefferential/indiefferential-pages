@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://indiefferential.github.io/indiefferential-pages/sitemap.xml

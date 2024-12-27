@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Indiefferential Magazine</title>
+    <link href="https://indiefferential.github.io/indiefferential-pages/feed.xml" rel="self" />
+    <link href="https://indiefferential.github.io/indiefferential-pages" />
+    <updated>2024-12-27T02:23:59+02:00</updated>
+    <author>
+        <name>Indiefferential Team</name>
+    </author>
+    <id>https://indiefferential.github.io/indiefferential-pages</id>
+
+    <entry>
+        <title>New Post</title>
+        <author>
+            <name>Indiefferential Team</name>
+        </author>
+        <link href="https://indiefferential.github.io/indiefferential-pages/new-post.html"/>
+        <id>https://indiefferential.github.io/indiefferential-pages/new-post.html</id>
+
+        <updated>2024-12-27T02:23:59+02:00</updated>
+            <summary>
+                <![CDATA[
+                    New post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>New post</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
