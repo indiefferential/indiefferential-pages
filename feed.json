@@ -13,14 +13,14 @@
             "id": "https://indiefferential.com/charts/",
             "url": "https://indiefferential.com/charts/",
             "title": "Charts",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"600\" height=\"1350\" style=\"border: none;\" src=\"https://indiefferential.github.io/charts/\" data-mce-fragment=\"1\">\n    </iframe></div>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"600\" height=\"5000\" style=\"border: none;\" src=\"https://indiefferential.github.io/charts/\" data-mce-fragment=\"1\">\n    </iframe></div>",
             "author": {
                 "name": "George S."
             },
             "tags": [
             ],
             "date_published": "2025-10-16T17:45:12+03:00",
-            "date_modified": "2025-10-16T17:45:12+03:00"
+            "date_modified": "2025-10-16T17:56:28+03:00"
         },
         {
             "id": "https://indiefferential.com/a-conversation-with-junifer/",

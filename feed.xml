@@ -3,7 +3,7 @@
     <title>Indiefferential</title>
     <link href="https://indiefferential.com/feed.xml" rel="self" />
     <link href="https://indiefferential.com" />
-    <updated>2025-10-16T17:45:12+03:00</updated>
+    <updated>2025-10-16T17:56:28+03:00</updated>
     <author>
         <name>George S.</name>
     </author>
@@ -17,11 +17,11 @@
         <link href="https://indiefferential.com/charts/"/>
         <id>https://indiefferential.com/charts/</id>
 
-        <updated>2025-10-16T17:45:12+03:00</updated>
+        <updated>2025-10-16T17:56:28+03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="600" height="1350" style="border: none;" src="https://indiefferential.github.io/charts/" data-mce-fragment="1">
+                <div class="post__iframe"><iframe loading="lazy" width="600" height="5000" style="border: none;" src="https://indiefferential.github.io/charts/" data-mce-fragment="1">
     </iframe></div>
             ]]>
         </content>
