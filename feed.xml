@@ -3,177 +3,12 @@
     <title>Indiefferential</title>
     <link href="https://indiefferential.com/feed.xml" rel="self" />
     <link href="https://indiefferential.com" />
-    <updated>2025-11-30T00:55:50+02:00</updated>
+    <updated>2025-11-30T20:10:00+02:00</updated>
     <author>
         <name>George S.</name>
     </author>
     <id>https://indiefferential.com</id>
 
-    <entry>
-        <title>Newsletter</title>
-        <author>
-            <name>George S.</name>
-        </author>
-        <link href="https://indiefferential.com/newsletter/"/>
-        <id>https://indiefferential.com/newsletter/</id>
-
-        <updated>2025-11-30T00:55:50+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Newsletter Signup for articles on creating and promoting music and get to know some of the next best artists today!&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div id="mlb2-34011450" class="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-34011450">
-<div class="ml-form-align-center ">
-<div class="ml-form-embedWrapper embedForm">
-<div class="ml-form-embedBody ml-form-embedBodyDefault row-form">
-<div class="ml-form-embedContent">
-<h4>Newsletter</h4>
-<p>Signup for articles on creating and promoting music and get to know some of the next best artists today!</p>
-</div>
-<form class="ml-block-form" action="https://assets.mailerlite.com/jsonp/381560/forms/172445444315546919/subscribe" method="post" target="_blank" data-code="">
-<div class="ml-form-formContent">
-<div class="ml-form-fieldRow ml-last-item">
-<div class="ml-field-group ml-field-email ml-validate-email ml-validate-required"><!-- input --> <input class="form-control" autocomplete="email" name="fields[email]" type="email" placeholder="Email" aria-label="email" aria-required="true" data-inputmask=""> <!-- /input --> <!-- textarea --> <!-- /textarea --> <!-- select --> <!-- /select --> <!-- checkboxes --> <!-- /checkboxes --> <!-- radio --> <!-- /radio --> <!-- countries --> <!-- /countries --></div>
-</div>
-</div>
-<!-- Privacy policy -->
-<div class="ml-form-embedPermissions">
-<div class="ml-form-embedPermissionsContent default privacy-policy">
-<p>You can unsubscribe anytime. For more details, review our Privacy Policy.</p>
-</div>
-</div>
-<!-- /Privacy policy --> <input name="ml-submit" type="hidden" value="1">
-<div class="ml-form-embedSubmit"><button class="primary" type="submit">Subscribe</button>
-<div class="ml-form-embedSubmitLoad"> </div>
-<button class="loading" style="display: none;" disabled="disabled" type="button"><span class="sr-only">Loading...</span> </button></div>
-<input name="anticsrf" type="hidden" value="true"></form></div>
-<div class="ml-form-successBody row-success" style="display: none;">
-<div class="ml-form-successContent">
-<h4>Thank you!</h4>
-<p>You have successfully joined our subscriber list.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<script>
-    function ml_webform_success_34011450() {
-      var $ = ml_jQuery || jQuery;
-      $('.ml-subscribe-form-34011450 .row-success').show();
-      $('.ml-subscribe-form-34011450 .row-form').hide();
-    }
-      </script>
-<script src="https://groot.mailerlite.com/js/w/webforms.min.js?v176e10baa5e7ed80d35ae235be3d5024" type="text/javascript"></script>
-<script>
-            fetch("https://assets.mailerlite.com/jsonp/381560/forms/172445444315546919/takel")
-        </script>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>What&#x27;s New November Editions</title>
-        <author>
-            <name>George S.</name>
-        </author>
-        <link href="https://indiefferential.com/whats-new-november-editions/"/>
-        <id>https://indiefferential.com/whats-new-november-editions/</id>
-
-        <updated>2025-11-27T22:57:16+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://indiefferential.com/media/posts/449/indiefferential-magazine-7.jpg" alt="" />
-                    What's New November Vol .4 Edition (Printed Version) Please refresh the page if the online preview isn't loading. Premium Print&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://indiefferential.com/media/posts/449/indiefferential-magazine-7.jpg" alt="" />
-                <h5 class="align-center">What's New November Vol .4 Edition (<strong>Printed Version</strong>)</h5>
-<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnnv5" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
-<p class="align-center">Please refresh the page if the online preview isn't loading.</p>
-<h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3213155?__r=5220251" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
-<p class="align-center"><strong>Premium Print</strong></p>
-<p class="align-center">Paper: 70# White Coated<br>Cover: 70# Glossy Cover<br>Perfect Bound Paperback<br>US Letter<br>8.5 x 11 in | 216 x 279 mm</p>
-<h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=wnnv5" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
-<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" data-is-external-image="true"  alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0"></p>
-<div class="align-center">
-<div class="align-center"><address class="align-center"><hr>
-<p class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://i.ibb.co/zMs8fWR/whats-new.jpg" data-is-external-image="true"  alt="whats-new" border="0"></a></p>
-<h5 class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">JOIN NOW</a></h5>
-<div class="align-center">
-<div class="align-center"><address class="align-center"><hr>
-<p><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">You can </span><strong style="font-family: var(--font-base); font-size: 1.26562em; letter-spacing: var(--letter-spacing);"><a href="https://www.buymeacoffee.com/indiefferential" target="_blank" rel="noopener">buy us a coffee</a></strong><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);"> (5$) and you can have </span><strong style="font-family: var(--font-base); font-size: 1.26562em; letter-spacing: var(--letter-spacing);">a full page every month</strong><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);"> just for your projects on every printed issue of What's New? (3-4 per month). Perks:</span></p>
-</address></div>
-</div>
-<div class="align-center">
-<div class="align-center"><address class="align-center">
-<ol>
-<li><span class="OYPEnA text-decoration-none text-strikethrough-none">A </span><span class="OYPEnA text-decoration-none text-strikethrough-none"><strong>full page</strong> </span><span class="OYPEnA text-decoration-none text-strikethrough-none">in our magazine</span> <span class="OYPEnA text-decoration-none text-strikethrough-none">a </span><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">QR code</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> leading back to your <strong>release/social media</strong>.</span></li>
-<li><strong>2 additional pages only in the digital version of the magazine</strong> since there are many readers interested in the online version.</li>
-<li> </li>
-<li><span class="OYPEnA text-decoration-none text-strikethrough-none">You music/project</span> <strong><span class="OYPEnA text-decoration-none text-strikethrough-none">on our website</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> (Spotlight &amp; Artists section)</span></li>
-<li><span class="OYPEnA text-decoration-none text-strikethrough-none"><strong>Online Banners</strong> </span><span class="OYPEnA text-decoration-none text-strikethrough-none">promoting your project between our articles with links (instead of Google ads)</span></li>
-<li><span class="OYPEnA text-decoration-none text-strikethrough-none">We add the full page at the end of </span><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">every post on our social media</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> (carousel)</span> </li>
-<li><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">One additional photo on every carousel</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> post on Instagram (we post 4-7 days per week)</span></li>
-<li><span class="OYPEnA text-decoration-none text-strikethrough-none">Your </span><span class="OYPEnA text-decoration-none text-strikethrough-none"><strong>music</strong> </span><span class="OYPEnA text-decoration-none text-strikethrough-none">on </span><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">Indiefferential radio</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> streaming music 24/7 online</span></li>
-<li><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">We suggest your music/project</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> to our readers via our</span><span class="OYPEnA text-decoration-none text-strikethrough-none"> <strong>mailing list</strong></span><span class="OYPEnA text-decoration-none text-strikethrough-none"> (1-2 mails per month)</span></li>
-<li><strong>Billboard promo support</strong> (we run weekly promo campaigns on billboards across the world)</li>
-</ol>
-<hr></address></div>
-</div>
-</address></div>
-</div>
-<div class="align-center">
-<div class="align-center"><address class="align-center">
-<h5 class="align-center">What's New November Vol .4 Edition (<strong>Printed Version</strong>)</h5>
-<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnnv4" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
-<p class="align-center">Please refresh the page if the online preview isn't loading.</p>
-<h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3210140?__r=5220251" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
-<p class="align-center"><strong>Premium Print</strong></p>
-<p class="align-center">Paper: 70# White Coated<br>Cover: 70# Glossy Cover<br>Perfect Bound Paperback<br>US Letter<br>8.5 x 11 in | 216 x 279 mm</p>
-<h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=wnnv4" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
-<hr>
-<h5 class="align-center">What's New November Vol .3 Edition (<strong>Printed Version</strong>)</h5>
-<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnnv3" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
-<p class="align-center">Please refresh the page if the online preview isn't loading.</p>
-<h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3202492?__r=5220251" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
-<p class="align-center"><strong>Premium Print</strong></p>
-<p class="align-center">Paper: 70# White Coated<br>Cover: 70# Glossy Cover<br>Perfect Bound Paperback<br>US Letter<br>8.5 x 11 in | 216 x 279 mm</p>
-<h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=wnnv3" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
-<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" data-is-external-image="true"  alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0"></p>
-<div class="align-center">
-<div class="align-center"><address class="align-center"> </address></div>
-</div>
-<hr>
-<h5> </h5>
-<h5 class="align-center">What's New November Vol .2 Edition (<strong>Printed Version</strong>)</h5>
-<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnnv2" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
-<p class="align-center">Please refresh the page if the online preview isn't loading.</p>
-<h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3198831?__r=5220251" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
-<p class="align-center"><strong>Premium Print</strong></p>
-<p class="align-center">Paper: 70# White Coated<br>Cover: 70# Glossy Cover<br>Perfect Bound Paperback<br>US Letter<br>8.5 x 11 in | 216 x 279 mm</p>
-<h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=wnnv2" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
-<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" data-is-external-image="true"  alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0"></p>
-<hr>
-<h5 class="align-center">What's New November Vol .1 Edition (<strong>Printed Version</strong>)</h5>
-<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnrd" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
-<p class="align-center">Please refresh the page if the online preview isn't loading.</p>
-<h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3196382?__r=5220251" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
-<p class="align-center"><strong>Premium Print</strong></p>
-<p class="align-center">Paper: 70# White Coated<br>Cover: 70# Glossy Cover<br>Perfect Bound Paperback<br>US Letter<br>8.5 x 11 in | 216 x 279 mm</p>
-<h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=wnrd" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
-<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" data-is-external-image="true"  alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0"></p>
-<div class="align-center">
-<div class="align-center"><address class="align-center"> </address></div>
-</div>
-</address></div>
-</div>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Top Releases</title>
         <author>
@@ -182,7 +17,7 @@
         <link href="https://indiefferential.com/top-releases/"/>
         <id>https://indiefferential.com/top-releases/</id>
 
-        <updated>2025-11-23T23:22:59+02:00</updated>
+        <updated>2025-11-30T20:10:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://indiefferential.com/media/posts/401/whats-new-1.jpg" alt="" />
@@ -193,6 +28,8 @@
             <![CDATA[
                     <img src="https://indiefferential.com/media/posts/401/whats-new-1.jpg" alt="" />
                 <h1 class="align-center">November Top Releases</h1>
+<p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://open.spotify.com/embed/track/7oO9fBEnIUGRWdMkUwKArb?utm_source=generator" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>
+<p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://open.spotify.com/embed/track/5RsGziIh2cGftnt7XfOGzj?utm_source=generator" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>
 <p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://open.spotify.com/embed/track/0T6deeYvi10EivV2dHFdTA?utm_source=generator" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>
 <p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://open.spotify.com/embed/track/1Qg4M3P95uU6GwVwRbndAW?utm_source=generator" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>
 <p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://open.spotify.com/embed/track/1Fya6vAq6GEkrDspLUKmNU?utm_source=generator" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>
@@ -516,6 +353,171 @@
 <p class="align-left"><strong>Five Headed Cobra: Delivering an Alt-Rock Punch with “Screaming From The Mountain” </strong><br><br>Five Headed Cobra continues to make waves with their distinct, high-energy sound, blending raw power with dynamic intricacy. The band’s latest offerings, Screaming From The Mountain and Beast Brain, deliver a captivating experience for lovers of the genre, showcasing their ability to craft tracks that are both intense and innovative.<br><br>This track stands out for its explosive energy and intricate details, making each listen a discovery of its own. Built on scratchy guitars and driving rhythms, Screaming From The Mountain offers a faster-paced sound punctuated with power-packed nuances. The result is a dynamic, adrenaline-fueled track that captivates from start to finish, pulling listeners into its electrifying atmosphere.</p>
 <p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/fVa2QO1nkRY?si=ohd_pKbMlzrmyZ1d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
 <p>For fans of alternative rock, this song is a straightforward yet richly layered offering. Its immediate appeal gives way to deeper intrigue, culminating in a finale that feels both natural and thrilling.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Newsletter</title>
+        <author>
+            <name>George S.</name>
+        </author>
+        <link href="https://indiefferential.com/newsletter/"/>
+        <id>https://indiefferential.com/newsletter/</id>
+
+        <updated>2025-11-30T00:55:50+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Newsletter Signup for articles on creating and promoting music and get to know some of the next best artists today!&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div id="mlb2-34011450" class="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-34011450">
+<div class="ml-form-align-center ">
+<div class="ml-form-embedWrapper embedForm">
+<div class="ml-form-embedBody ml-form-embedBodyDefault row-form">
+<div class="ml-form-embedContent">
+<h4>Newsletter</h4>
+<p>Signup for articles on creating and promoting music and get to know some of the next best artists today!</p>
+</div>
+<form class="ml-block-form" action="https://assets.mailerlite.com/jsonp/381560/forms/172445444315546919/subscribe" method="post" target="_blank" data-code="">
+<div class="ml-form-formContent">
+<div class="ml-form-fieldRow ml-last-item">
+<div class="ml-field-group ml-field-email ml-validate-email ml-validate-required"><!-- input --> <input class="form-control" autocomplete="email" name="fields[email]" type="email" placeholder="Email" aria-label="email" aria-required="true" data-inputmask=""> <!-- /input --> <!-- textarea --> <!-- /textarea --> <!-- select --> <!-- /select --> <!-- checkboxes --> <!-- /checkboxes --> <!-- radio --> <!-- /radio --> <!-- countries --> <!-- /countries --></div>
+</div>
+</div>
+<!-- Privacy policy -->
+<div class="ml-form-embedPermissions">
+<div class="ml-form-embedPermissionsContent default privacy-policy">
+<p>You can unsubscribe anytime. For more details, review our Privacy Policy.</p>
+</div>
+</div>
+<!-- /Privacy policy --> <input name="ml-submit" type="hidden" value="1">
+<div class="ml-form-embedSubmit"><button class="primary" type="submit">Subscribe</button>
+<div class="ml-form-embedSubmitLoad"> </div>
+<button class="loading" style="display: none;" disabled="disabled" type="button"><span class="sr-only">Loading...</span> </button></div>
+<input name="anticsrf" type="hidden" value="true"></form></div>
+<div class="ml-form-successBody row-success" style="display: none;">
+<div class="ml-form-successContent">
+<h4>Thank you!</h4>
+<p>You have successfully joined our subscriber list.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+    function ml_webform_success_34011450() {
+      var $ = ml_jQuery || jQuery;
+      $('.ml-subscribe-form-34011450 .row-success').show();
+      $('.ml-subscribe-form-34011450 .row-form').hide();
+    }
+      </script>
+<script src="https://groot.mailerlite.com/js/w/webforms.min.js?v176e10baa5e7ed80d35ae235be3d5024" type="text/javascript"></script>
+<script>
+            fetch("https://assets.mailerlite.com/jsonp/381560/forms/172445444315546919/takel")
+        </script>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>What&#x27;s New November Editions</title>
+        <author>
+            <name>George S.</name>
+        </author>
+        <link href="https://indiefferential.com/whats-new-november-editions/"/>
+        <id>https://indiefferential.com/whats-new-november-editions/</id>
+
+        <updated>2025-11-27T22:57:16+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://indiefferential.com/media/posts/449/indiefferential-magazine-7.jpg" alt="" />
+                    What's New November Vol .4 Edition (Printed Version) Please refresh the page if the online preview isn't loading. Premium Print&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://indiefferential.com/media/posts/449/indiefferential-magazine-7.jpg" alt="" />
+                <h5 class="align-center">What's New November Vol .4 Edition (<strong>Printed Version</strong>)</h5>
+<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnnv5" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
+<p class="align-center">Please refresh the page if the online preview isn't loading.</p>
+<h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3213155?__r=5220251" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
+<p class="align-center"><strong>Premium Print</strong></p>
+<p class="align-center">Paper: 70# White Coated<br>Cover: 70# Glossy Cover<br>Perfect Bound Paperback<br>US Letter<br>8.5 x 11 in | 216 x 279 mm</p>
+<h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=wnnv5" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
+<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" data-is-external-image="true"  alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0"></p>
+<div class="align-center">
+<div class="align-center"><address class="align-center"><hr>
+<p class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://i.ibb.co/zMs8fWR/whats-new.jpg" data-is-external-image="true"  alt="whats-new" border="0"></a></p>
+<h5 class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">JOIN NOW</a></h5>
+<div class="align-center">
+<div class="align-center"><address class="align-center"><hr>
+<p><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">You can </span><strong style="font-family: var(--font-base); font-size: 1.26562em; letter-spacing: var(--letter-spacing);"><a href="https://www.buymeacoffee.com/indiefferential" target="_blank" rel="noopener">buy us a coffee</a></strong><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);"> (5$) and you can have </span><strong style="font-family: var(--font-base); font-size: 1.26562em; letter-spacing: var(--letter-spacing);">a full page every month</strong><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);"> just for your projects on every printed issue of What's New? (3-4 per month). Perks:</span></p>
+</address></div>
+</div>
+<div class="align-center">
+<div class="align-center"><address class="align-center">
+<ol>
+<li><span class="OYPEnA text-decoration-none text-strikethrough-none">A </span><span class="OYPEnA text-decoration-none text-strikethrough-none"><strong>full page</strong> </span><span class="OYPEnA text-decoration-none text-strikethrough-none">in our magazine</span> <span class="OYPEnA text-decoration-none text-strikethrough-none">a </span><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">QR code</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> leading back to your <strong>release/social media</strong>.</span></li>
+<li><strong>2 additional pages only in the digital version of the magazine</strong> since there are many readers interested in the online version.</li>
+<li> </li>
+<li><span class="OYPEnA text-decoration-none text-strikethrough-none">You music/project</span> <strong><span class="OYPEnA text-decoration-none text-strikethrough-none">on our website</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> (Spotlight &amp; Artists section)</span></li>
+<li><span class="OYPEnA text-decoration-none text-strikethrough-none"><strong>Online Banners</strong> </span><span class="OYPEnA text-decoration-none text-strikethrough-none">promoting your project between our articles with links (instead of Google ads)</span></li>
+<li><span class="OYPEnA text-decoration-none text-strikethrough-none">We add the full page at the end of </span><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">every post on our social media</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> (carousel)</span> </li>
+<li><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">One additional photo on every carousel</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> post on Instagram (we post 4-7 days per week)</span></li>
+<li><span class="OYPEnA text-decoration-none text-strikethrough-none">Your </span><span class="OYPEnA text-decoration-none text-strikethrough-none"><strong>music</strong> </span><span class="OYPEnA text-decoration-none text-strikethrough-none">on </span><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">Indiefferential radio</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> streaming music 24/7 online</span></li>
+<li><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">We suggest your music/project</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> to our readers via our</span><span class="OYPEnA text-decoration-none text-strikethrough-none"> <strong>mailing list</strong></span><span class="OYPEnA text-decoration-none text-strikethrough-none"> (1-2 mails per month)</span></li>
+<li><strong>Billboard promo support</strong> (we run weekly promo campaigns on billboards across the world)</li>
+</ol>
+<hr></address></div>
+</div>
+</address></div>
+</div>
+<div class="align-center">
+<div class="align-center"><address class="align-center">
+<h5 class="align-center">What's New November Vol .4 Edition (<strong>Printed Version</strong>)</h5>
+<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnnv4" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
+<p class="align-center">Please refresh the page if the online preview isn't loading.</p>
+<h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3210140?__r=5220251" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
+<p class="align-center"><strong>Premium Print</strong></p>
+<p class="align-center">Paper: 70# White Coated<br>Cover: 70# Glossy Cover<br>Perfect Bound Paperback<br>US Letter<br>8.5 x 11 in | 216 x 279 mm</p>
+<h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=wnnv4" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
+<hr>
+<h5 class="align-center">What's New November Vol .3 Edition (<strong>Printed Version</strong>)</h5>
+<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnnv3" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
+<p class="align-center">Please refresh the page if the online preview isn't loading.</p>
+<h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3202492?__r=5220251" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
+<p class="align-center"><strong>Premium Print</strong></p>
+<p class="align-center">Paper: 70# White Coated<br>Cover: 70# Glossy Cover<br>Perfect Bound Paperback<br>US Letter<br>8.5 x 11 in | 216 x 279 mm</p>
+<h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=wnnv3" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
+<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" data-is-external-image="true"  alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0"></p>
+<div class="align-center">
+<div class="align-center"><address class="align-center"> </address></div>
+</div>
+<hr>
+<h5> </h5>
+<h5 class="align-center">What's New November Vol .2 Edition (<strong>Printed Version</strong>)</h5>
+<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnnv2" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
+<p class="align-center">Please refresh the page if the online preview isn't loading.</p>
+<h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3198831?__r=5220251" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
+<p class="align-center"><strong>Premium Print</strong></p>
+<p class="align-center">Paper: 70# White Coated<br>Cover: 70# Glossy Cover<br>Perfect Bound Paperback<br>US Letter<br>8.5 x 11 in | 216 x 279 mm</p>
+<h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=wnnv2" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
+<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" data-is-external-image="true"  alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0"></p>
+<hr>
+<h5 class="align-center">What's New November Vol .1 Edition (<strong>Printed Version</strong>)</h5>
+<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnrd" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
+<p class="align-center">Please refresh the page if the online preview isn't loading.</p>
+<h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3196382?__r=5220251" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
+<p class="align-center"><strong>Premium Print</strong></p>
+<p class="align-center">Paper: 70# White Coated<br>Cover: 70# Glossy Cover<br>Perfect Bound Paperback<br>US Letter<br>8.5 x 11 in | 216 x 279 mm</p>
+<h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=wnrd" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
+<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" data-is-external-image="true"  alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0"></p>
+<div class="align-center">
+<div class="align-center"><address class="align-center"> </address></div>
+</div>
+</address></div>
+</div>
             ]]>
         </content>
     </entry>
