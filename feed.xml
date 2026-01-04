@@ -3,7 +3,7 @@
     <title>Indiefferential</title>
     <link href="https://indiefferential.com/feed.xml" rel="self" />
     <link href="https://indiefferential.com" />
-    <updated>2026-01-04T19:53:16+02:00</updated>
+    <updated>2026-01-04T20:03:08+02:00</updated>
     <author>
         <name>George S.</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://indiefferential.com/why-indie-music-is-slowing-down-and-why-thats-a-good-thing/"/>
         <id>https://indiefferential.com/why-indie-music-is-slowing-down-and-why-thats-a-good-thing/</id>
+            <category term="News"/>
 
-        <updated>2026-01-04T19:53:16+02:00</updated>
+        <updated>2026-01-04T20:03:08+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://indiefferential.com/media/posts/478/indiefferential-magazine-3.jpg" alt="" />
