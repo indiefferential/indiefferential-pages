@@ -21,10 +21,11 @@
                 "name": "George S."
             },
             "tags": [
-                   "News"
+                   "News",
+                   "Interviews"
             ],
             "date_published": "2026-01-17T02:33:45+02:00",
-            "date_modified": "2026-01-17T02:33:45+02:00"
+            "date_modified": "2026-01-17T02:37:40+02:00"
         },
         {
             "id": "https://indiefferential.com/indiefferential-picks-january-editions/",
