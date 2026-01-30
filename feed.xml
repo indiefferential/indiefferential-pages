@@ -3,7 +3,7 @@
     <title>Indiefferential</title>
     <link href="https://indiefferential.com/feed.xml" rel="self" />
     <link href="https://indiefferential.com" />
-    <updated>2026-01-30T23:01:53+02:00</updated>
+    <updated>2026-01-30T23:05:05+02:00</updated>
     <author>
         <name>George S.</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://indiefferential.com/a-conversation-with-cooper-mae/"/>
         <id>https://indiefferential.com/a-conversation-with-cooper-mae/</id>
         <media:content url="https://indiefferential.com/media/posts/495/indiefferential-magazine-2.jpg" medium="image" />
+            <category term="Interviews"/>
 
         <updated>2026-01-30T22:54:12+02:00</updated>
             <summary type="html">
