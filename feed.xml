@@ -3,12 +3,41 @@
     <title>Indiefferential</title>
     <link href="https://indiefferential.com/feed.xml" rel="self" />
     <link href="https://indiefferential.com" />
-    <updated>2026-02-15T23:29:36+02:00</updated>
+    <updated>2026-02-15T23:39:46+02:00</updated>
     <author>
         <name>George S.</name>
     </author>
     <id>https://indiefferential.com</id>
 
+    <entry>
+        <title>A conversation with Shannon Darcy</title>
+        <author>
+            <name>George S.</name>
+        </author>
+        <link href="https://indiefferential.com/a-conversation-with-shannon-darcy/"/>
+        <id>https://indiefferential.com/a-conversation-with-shannon-darcy/</id>
+        <media:content url="https://indiefferential.com/media/posts/499/indiefferential-magazine-3.jpg" medium="image" />
+            <category term="News"/>
+            <category term="Interviews"/>
+
+        <updated>2026-02-15T23:39:46+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://indiefferential.com/media/posts/499/indiefferential-magazine-3.jpg" alt="" />
+                    Where can we find you right now and what are you up too? Well, at the moment I’m a full time uni student studying music in London. I’m doing a performance and production course, which I’m having so much fun with! I’ve been learning how&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://indiefferential.com/media/posts/499/indiefferential-magazine-3.jpg" class="type:primaryImage" alt="" /></p>
+                <p><strong>Where can we find you right now and what are you up too?</strong><br><br>Well, at the moment I’m a full time uni student studying music in London. I’m doing a performance and production course, which I’m having so much fun with! I’ve been learning how to produce my own music and even doing my own compositions as I’m now learning to play piano too. I’ve always loved performing, so I’m really enjoying delving deeper into the music industry in a new way. Alongside this, with the release of ‘Control Freak’, I’ve been trying to build my online presence across my social media platforms and it’s been really fun filming new types of content to post so that people get to know me as an artist and as a person.<br><br><strong>How would you define success? What is your goal?</strong><br><br>For me, I just want people to enjoy my music. I want anyone who feels like they can relate to my songs, to be able to turn up the volume and head-bang to the lyrics or shout them out! I want to tour the world one day because I love being up on a stage and I love interacting with a crowd. Honestly, it means so much to me when someone tells me they can resonate with one of my songs, and that’s what I would define as a success. So, I guess my long term goal is to keep doing what I’m doing, but on a larger scale. I want to get my music out there, and it’s something I’m not going to give up on!</p>
+<p class="align-center"><div class="post__iframe"><iframe width="100%" height="352" style="border-radius: 12px;" data-testid="embed-iframe" src="https://open.spotify.com/embed/artist/7GfLRo8U1dHsRJ5xpdFBMZ?utm_source=generator" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>
+<p><br><br><strong>How did you start?</strong><br><br>I’ve always loved singing from a very young age and I can remember being in the car with my mum and singing along to different CD’s she had whenever we would go out. It was only when I was ten-years-old, that I realised I wanted to be an artist and that being on stage was just something I loved. I was on holiday at a caravan park and they were putting on a talent competition, which I decided to enter last minute. I remember being so nervous before going up on stage, I got upset and almost didn’t do it. Yet, as soon as I got up there and started singing, I didn’t want to stop! I knew from that moment that it was something I wanted to do for the rest of my life. From there, I ended up winning the competition and got to the National finals! I will always be grateful that I ended up getting on stage that day, as it really was the doorway that led me to where I am now.</p>
+<p class="align-center"><img loading="lazy" src="https://i.ibb.co/FkRp7G5r/image10-1.jpg" alt="image10 (1)" border="0" data-is-external-image="true"></p>
+<p><br><br><strong>What is a typical day in your life as an artist?</strong><br><br>Right now, as an independent artist, it’s really just about trying to push myself out there and making noise about the new release! I’m always writing new music, and now that I’m at uni learning to do so much more, I’m able to put that into practise at home as well. As I mentioned previously, I’m always planning on new content to post on social media, and I’m trying at the moment to post multiple things everyday to keep my pages active. I have a lot of fun filming TikTok’s especially and recording song covers, so I guess a typical day really just consists of music and anything interesting I can post haha.<br><br><strong>What do you think of AI in music?</strong><br><br>I have never used AI in any of my music and personally it’s not something I’d probably ever use when it comes to creating anything musically. I’m a very creative person, so AI kind of takes that away from me and anyone else who enjoys the creative process of writing or composing a song. I understand that people use AI in a lot of different ways, but when you have people who work so hard putting their creative vision into a song and then compare it with a song made entirely from AI, I feel like it takes the opportunities away from that creative individual. It’s definitely a big conversation in the music industry at the moment, and I think in any creative industry too.<br><br><strong>Tell us about your latest or upcoming release.</strong><br><br>My song ‘Control Freak’ has just come out and I have to say it’s definitely one of my favourite songs I’ve done! It’s so petty and sarcastic, but it’s also a lot of fun to listen and sing along too. I feel like everyone at some point in their lives has dealt with who they’d label a ‘control freak’ and sometimes it’s nice to be able to air that frustration out in a bold and sassy way! It’s quite a different vibe to my other songs, but I love experimenting with different sounds and different genres too. I worked with an incredible producer, Jim Hustwit, who was able to create something exactly how I’d envisioned when I wrote the song.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>What&#x27;s New Special Edition Mick J. Clark</title>
         <author>
@@ -483,44 +512,6 @@
             <![CDATA[
                     <p><img src="https://indiefferential.com/media/posts/491/indiefferential-magazine-10.jpg" class="type:primaryImage" alt="" /></p>
                 <p>In early 2026, something big happened in music circles. Bandcamp, which has traditionally been seen as an oasis for independent voices and genuine artistry, announced its decision to <a href="https://pitchfork.com/news/bandcamp-announces-ban-on-ai-music/?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">bar music created entirely or in part by artificial intelligence from its site</a>. The message is unmistakable: Bandcamp is dedicated to ensuring that musicians and listeners know their music is created by human beings, not machines.<br><br>It's this policy that differentiates Bandcamp from the majority of the prominent music streaming websites that have already begun witnessing a rise in the number of AI-generated tracks on their websites. In fact, on many prominent music streaming websites such as Spotify and Deezer, there has been a rise in the number of AI-generated tracks that have been uploaded on the website within the last year. In fact, on many such websites, the overall percentage of AI-generated tracks that have been estimated to have been uploaded on the website ranges between 18-34%. Moreover, the majority of the users have not been able to identify the difference between human-generated tracks and those that have been created using AI.<br><br>This is particularly evidenced in Bandcamp’s choice, which represents a larger cultural tension: the need for the music industry to strike a delicate balance between innovation and integrity. On the one hand, there are innovative producers such as Suno, Udio, and ElevenLabs, which have been touting the power to democratize music making and make it more accessible. These producers have been securing high-profile partnerships, large funding rounds, and touting the power of AI to collaborate with, rather than replace, musicians. For example, ElevenLabs’ recent album, titled “The Eleven Album,” includes vocal samples from both Liza Minnelli and Art Garfunkel, along with other AI-generated features.<br><br>On the other side, however, is a growing movement of artists, rights holders, and music lovers who fear that, by utilizing AI, music itself is losing its very foundation. Around the world, thousands of artists have united in opposition to unlicensed AI model training and low-quality "AI slop." In fact, some countries’ regulatory bodies have begun taking steps, as Sweden has officially removed a song created almost entirely by AI technology from its music charts, arguing that music without some level of human participation should not qualify for inclusion.<br><br>The significance of this for musicians cannot be overstated. Bandcamp's prohibition of AI isn’t the same as the rejection of technology per se. In this sense, the platform doesn’t entirely prohibit the utilization of AI, merely for small purposes such as cleaning or suggesting. However, the message it sends out to the music industry and the artists within it is quite definitive. There appears to be a section of the industry that continues to respect the craftsmanship of the individual. The music landscape itself is evolving. AI is redefining music creation, discovery, and distribution. The argument around AI and music creation will only get sharper. Some will see AI and AI-generated music as progress. Others will see AI-generated music as an attempt to commodity creativity and silence genuine human voices. The move by Bandcamp will not end this argument. Instead, it will represent a defining point where arguments around music’s future are no longer confined to boardrooms. They are now within music itself.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>A conversation with Allison Tartalia (Allison&#x27;s Invention)</title>
-        <author>
-            <name>George S.</name>
-        </author>
-        <link href="https://indiefferential.com/a-conversation-with-allison-tartalia/"/>
-        <id>https://indiefferential.com/a-conversation-with-allison-tartalia/</id>
-        <media:content url="https://indiefferential.com/media/posts/490/indiefferential-magazine-9.jpg" medium="image" />
-            <category term="News"/>
-            <category term="Interviews"/>
-
-        <updated>2026-01-22T10:18:09+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://indiefferential.com/media/posts/490/indiefferential-magazine-9.jpg" alt="" />
-                    Where can we find you right now and what are you up to? Currently, I’m spending a lot of time in my recording studio, juggling a few very different projects. I’m finishing up several of my own songs, with the intention of releasing an EP&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://indiefferential.com/media/posts/490/indiefferential-magazine-9.jpg" class="type:primaryImage" alt="" /></p>
-                <p><strong>Where can we find you right now and what are you up to?</strong></p>
-<p><span style="font-weight: 400;">Currently, I’m spending a lot of time in my recording studio, juggling a few very different projects. I’m finishing up several of my own songs, with the intention of releasing an EP later this year. I’m also currently scoring a short film and producing some songs with my friend and singer-songwriter Alyson Greenfield.</span></p>
-<p><strong>How would you define success? What is your goal?</strong></p>
-<p><span style="font-weight: 400;">Really, I just want to keep doing this as long as possible, and I’m grateful that I’m able to be a working musician. In the near future, my goal is to release a lot of new material that I’ve been developing and finally send those songs out into the world. In the long term, it’s to just keep working on interesting projects and collaborating with talented, inspiring people.</span></p>
-<p class="align-center"><img loading="lazy" src="https://i.ibb.co/jvrjmvBF/Over-It-cover-smaller.jpg" alt="Over It cover smaller" border="0" data-is-external-image="true"></p>
-<p><strong>How did you start?</strong></p>
-<p><span style="font-weight: 400;">I grew up around music. My mom was largely self-taught on piano and guitar and wanted me to have the formal training she wasn’t able to have for herself, so I took classical piano lessons from around age 5. I started writing songs in the fifth grade, during my free time at school. Later in high school I got really into theatre, and after college I spent a number of years auditioning and doing shows while also gigging as a singer-songwriter. Eventually, the music part took over, though I still love theatre and enjoy combining those two art forms together when I compose for film.</span></p>
-<p><strong>What is a typical day in your life as an artist?</strong></p>
-<p><span style="font-weight: 400;">It depends on the day, but usually some combination of writing, recording and teaching music.</span></p>
-<p><strong>What do you think of AI in music?</strong></p>
-<p><span style="font-weight: 400;">To me, art is about the human experience, flawed and messy though it may be. If you’re removing that element, what’s the point? The writing and arranging of the music is the most fun part as far as I’m concerned, so outsourcing that to an algorithm is not at all appealing to me. Even when I’m stuck on a lyric or struggling to figure out some aspect of the music, I’d rather just wrestle with that or even collaborate with another human artist and see where that takes things. Art is about the process, not just an end product.</span></p>
-<p class="align-center"><div class="post__iframe"><iframe width="100%" height="352" style="border-radius: 12px;" data-testid="embed-iframe" src="https://open.spotify.com/embed/artist/4TitSN1ZERVRAjzKPlnfQZ?utm_source=generator" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>
-<p><strong>Tell us about your latest or upcoming release.</strong></p>
-<p><span style="font-weight: 400;">“Over It” is about finding yourself in a challenging situation where you hope that a certain person in your life is going to rise to the occasion, but, for whatever reason, they just don’t have it in them. It’s about making peace with that and not letting the anger and disappointment consume you. It can be painful to let go of the idealized view you held of someone, but the truth is also empowering.</span></p>
             ]]>
         </content>
     </entry>
