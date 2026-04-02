@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Indiefferential</title>
     <link href="https://indiefferential.com/feed.xml" rel="self" />
     <link href="https://indiefferential.com" />
@@ -16,9 +16,10 @@
         </author>
         <link href="https://indiefferential.com/whats-new-special-edition-stephanie-happening-printed-version/"/>
         <id>https://indiefferential.com/whats-new-special-edition-stephanie-happening-printed-version/</id>
+        <media:content url="https://indiefferential.com/media/posts/506/indiefferential-magazine-3.jpg" medium="image" />
 
         <updated>2026-04-01T23:36:16+03:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://indiefferential.com/media/posts/506/indiefferential-magazine-3.jpg" alt="" />
                     A magazine created by artists featuring new music, games, books and art projects worldwide. The physical copies of the magazine are printed in the U.S. although we are working with editors both in the U.S. and Europe. Please refresh the page if the online preview&hellip;
@@ -26,19 +27,19 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://indiefferential.com/media/posts/506/indiefferential-magazine-3.jpg" alt="" />
+                    <p><img src="https://indiefferential.com/media/posts/506/indiefferential-magazine-3.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center">A magazine created by artists featuring new music, games, books and art projects worldwide. The physical copies of the magazine are printed in the U.S. although we are working with editors both in the U.S. and Europe.</p>
 <h5 class="align-center">What's New Special Edition Stephanie Happening (<strong>Printed Version</strong>)</h5>
-<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnsh" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
+<h5 class="align-center"><div class="post__iframe"><iframe width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnsh" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
 <p class="align-center">Please refresh the page if the online preview isn't loading.</p>
 <h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3297057?__r=5220251" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
 <p class="align-center"><strong>Premium Print</strong></p>
 <p class="align-center">Paper: 70# White Coated<br>Cover: 70# Glossy Cover<br>Perfect Bound Paperback<br>US Letter<br>8.5 x 11 in | 216 x 279 mm</p>
 <h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=wnsh" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
-<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" data-is-external-image="true"  alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0"></p>
+<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0" data-is-external-image="true"></p>
 <div class="align-center">
 <div class="align-center"><address class="align-center"><hr>
-<p class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://i.ibb.co/zMs8fWR/whats-new.jpg" data-is-external-image="true"  alt="whats-new" border="0"></a></p>
+<p class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://i.ibb.co/zMs8fWR/whats-new.jpg" alt="whats-new" border="0" data-is-external-image="true"></a></p>
 <h5 class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">JOIN NOW</a></h5>
 <div class="align-center">
 <div class="align-center"><address class="align-center"><hr>
@@ -82,9 +83,10 @@
         </author>
         <link href="https://indiefferential.com/indiefferential-picks-march-editions/"/>
         <id>https://indiefferential.com/indiefferential-picks-march-editions/</id>
+        <media:content url="https://indiefferential.com/media/posts/504/indiefferential-magazine-2.jpg" medium="image" />
 
         <updated>2026-03-29T10:32:00+03:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://indiefferential.com/media/posts/504/indiefferential-magazine-2.jpg" alt="" />
                     Your go-to guide if you need to know about the best songs that make it into playlists and online radio shows. Indiefferential Picks includes our Spotify Playlist additions and many more! Premium Print Paper: 70# White Coated Cover: 70# Glossy Cover Perfect Bound Paperback US&hellip;
@@ -92,18 +94,18 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://indiefferential.com/media/posts/504/indiefferential-magazine-2.jpg" alt="" />
+                    <p><img src="https://indiefferential.com/media/posts/504/indiefferential-magazine-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center">Your go-to guide if you need to know about the best songs that make it into playlists and online radio shows. Indiefferential Picks includes our Spotify Playlist additions and many more!</p>
 <h5 class="align-center">Indiefferential Picks March Vol .2 Edition (<strong>Printed Version</strong>)</h5>
-<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=ipm1" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
+<h5 class="align-center"><div class="post__iframe"><iframe width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=ipm1" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
 <h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3294063" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
 <p class="align-center"><strong>Premium Print</strong></p>
 <p class="align-center">Paper: 70# White Coated<br>Cover: 70# Glossy Cover<br>Perfect Bound Paperback<br>US Letter<br>8.5 x 11 in | 216 x 279 mm</p>
 <h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=ipm1" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
-<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" data-is-external-image="true"  alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0"></p>
+<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0" data-is-external-image="true"></p>
 <div class="align-center">
 <div class="align-center"><address class="align-center"><hr>
-<p class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://i.ibb.co/zMs8fWR/whats-new.jpg" data-is-external-image="true"  alt="whats-new" border="0"></a></p>
+<p class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://i.ibb.co/zMs8fWR/whats-new.jpg" alt="whats-new" border="0" data-is-external-image="true"></a></p>
 <h5 class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">JOIN NOW</a></h5>
 <div class="align-center">
 <div class="align-center"><address class="align-center"><hr>
@@ -133,7 +135,7 @@
 <div class="align-center">
 <div class="align-center"><address class="align-center">
 <h5 class="align-center">Indiefferential Picks March Vol .1 Edition (<strong>Printed Version</strong>)</h5>
-<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=ipq" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
+<h5 class="align-center"><div class="post__iframe"><iframe width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=ipq" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
 <h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3278510?__r=5220251" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
 <p class="align-center"><strong>Premium Print</strong></p>
 <p class="align-center">Paper: 70# White Coated<br>Cover: 70# Glossy Cover<br>Perfect Bound Paperback<br>US Letter<br>8.5 x 11 in | 216 x 279 mm</p>
@@ -148,13 +150,14 @@
     <entry>
         <title>What&#x27;s New March Editions (Printed Version)</title>
         <author>
-            <name>George S.</name>
+            <name>Indiefferential</name>
         </author>
         <link href="https://indiefferential.com/whats-new-march-editions-printed-version/"/>
         <id>https://indiefferential.com/whats-new-march-editions-printed-version/</id>
+        <media:content url="https://indiefferential.com/media/posts/502/indiefferential-magazine.jpg" medium="image" />
 
         <updated>2026-03-25T22:39:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://indiefferential.com/media/posts/502/indiefferential-magazine.jpg" alt="" />
                     A magazine created by artists featuring new music, games, books and art projects worldwide. The physical copies of the magazine are printed in the U.S. although we are working with editors both in the U.S. and Europe. Please refresh the page if the online preview&hellip;
@@ -162,19 +165,19 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://indiefferential.com/media/posts/502/indiefferential-magazine.jpg" alt="" />
+                    <p><img src="https://indiefferential.com/media/posts/502/indiefferential-magazine.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center">A magazine created by artists featuring new music, games, books and art projects worldwide. The physical copies of the magazine are printed in the U.S. although we are working with editors both in the U.S. and Europe.</p>
 <h5 class="align-center">What's New March Vol .5 Edition (<strong>Printed Version</strong>)</h5>
-<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnm5" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
+<h5 class="align-center"><div class="post__iframe"><iframe width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnm5" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
 <p class="align-center">Please refresh the page if the online preview isn't loading.</p>
 <h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3292017?__r=5220251" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
 <p class="align-center"><strong>Premium Print</strong></p>
 <p class="align-center">Paper: 70# White Coated<br>Cover: 70# Glossy Cover<br>Perfect Bound Paperback<br>US Letter<br>8.5 x 11 in | 216 x 279 mm</p>
 <h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=wnm5" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
-<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" data-is-external-image="true"  alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0"></p>
+<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0" data-is-external-image="true"></p>
 <div class="align-center">
 <div class="align-center"><address class="align-center"><hr>
-<p class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://i.ibb.co/zMs8fWR/whats-new.jpg" data-is-external-image="true"  alt="whats-new" border="0"></a></p>
+<p class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://i.ibb.co/zMs8fWR/whats-new.jpg" alt="whats-new" border="0" data-is-external-image="true"></a></p>
 <h5 class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">JOIN NOW</a></h5>
 <div class="align-center">
 <div class="align-center"><address class="align-center"><hr>
@@ -202,7 +205,7 @@
 <div class="align-center">
 <div class="align-center"><address class="align-center">
 <h5 class="align-center">What's New March Vol .4 Edition (<strong>Printed Version</strong>)</h5>
-<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnm4" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
+<h5 class="align-center"><div class="post__iframe"><iframe width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnm4" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
 <p class="align-center">Please refresh the page if the online preview isn't loading.</p>
 <h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3285327?__r=5220251" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
 <p class="align-center"><strong>Premium Print</strong></p>
@@ -210,7 +213,7 @@
 <h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=wnm4" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
 <hr>
 <h5 class="align-center">What's New March Vol .3 Edition (<strong>Printed Version</strong>)</h5>
-<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnm3" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
+<h5 class="align-center"><div class="post__iframe"><iframe width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnm3" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
 <p class="align-center">Please refresh the page if the online preview isn't loading.</p>
 <h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3284028?__r=5220251" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
 <p class="align-center"><strong>Premium Print</strong></p>
@@ -218,7 +221,7 @@
 <h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=wnm3" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
 <hr>
 <h5 class="align-center">What's New March Vol .2 Edition (<strong>Printed Version</strong>)</h5>
-<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnm2" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
+<h5 class="align-center"><div class="post__iframe"><iframe width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnm2" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
 <p class="align-center">Please refresh the page if the online preview isn't loading.</p>
 <h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3279848?__r=5220251" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
 <p class="align-center"><strong>Premium Print</strong></p>
@@ -226,7 +229,7 @@
 <h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=wnm2" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
 <hr>
 <h5 class="align-center">What's New March Vol .1 Edition (<strong>Printed Version</strong>)</h5>
-<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnm1" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
+<h5 class="align-center"><div class="post__iframe"><iframe width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnm1" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
 <p class="align-center">Please refresh the page if the online preview isn't loading.</p>
 <h5 class="align-center"><a href="
 https://www.magcloud.com/browse/issue/3276308?__r=5220251
@@ -234,7 +237,7 @@ https://www.magcloud.com/browse/issue/3276308?__r=5220251
 <p class="align-center"><strong>Premium Print</strong></p>
 <p class="align-center">Paper: 70# White Coated<br>Cover: 70# Glossy Cover<br>Perfect Bound Paperback<br>US Letter<br>8.5 x 11 in | 216 x 279 mm</p>
 <h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=wnm1" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
-<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" data-is-external-image="true"  alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0"></p>
+<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0" data-is-external-image="true"></p>
 </address></div>
 </div>
             ]]>
@@ -243,14 +246,15 @@ https://www.magcloud.com/browse/issue/3276308?__r=5220251
     <entry>
         <title>Jack White Criticizes the “Taylor Swift Style” of Writing Songs About Public Breakups</title>
         <author>
-            <name>George S.</name>
+            <name>Mark Hale</name>
         </author>
         <link href="https://indiefferential.com/jack-white-criticizes-the-taylor-swift-style-of-writing-songs-about-public-breakups/"/>
         <id>https://indiefferential.com/jack-white-criticizes-the-taylor-swift-style-of-writing-songs-about-public-breakups/</id>
+        <media:content url="https://indiefferential.com/media/posts/505/indiefferential-magazine-1.jpg" medium="image" />
             <category term="News"/>
 
-        <updated>2026-03-08T14:17:21+02:00</updated>
-            <summary>
+        <updated>2026-03-08T13:53:02+02:00</updated>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://indiefferential.com/media/posts/505/indiefferential-magazine-1.jpg" alt="" />
                     Break-Ups, Boredom, and the Business of Songwriting By Mark Hale for Indiefferential Magazine There are two kinds of musicians in the modern pop landscape. The first type writes songs that read like diary entries accidentally set to music. The second type would rather eat their&hellip;
@@ -258,7 +262,7 @@ https://www.magcloud.com/browse/issue/3276308?__r=5220251
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://indiefferential.com/media/posts/505/indiefferential-magazine-1.jpg" alt="" />
+                    <p><img src="https://indiefferential.com/media/posts/505/indiefferential-magazine-1.jpg" class="type:primaryImage" alt="" /></p>
                 <p><strong>Break-Ups, Boredom, and the Business of Songwriting</strong><br><em>By Mark Hale for Indiefferential Magazine</em></p>
 <p>There are two kinds of musicians in the modern pop landscape. The first type writes songs that read like diary entries accidentally set to music. The second type would rather eat their own guitar strings than publicly dissect their emotional baggage in front of millions of listeners.</p>
 <p>And if you’ve ever listened to the gloriously unpredictable output of Jack White, you’ll know immediately which camp he belongs to.</p>
@@ -328,9 +332,10 @@ https://www.magcloud.com/browse/issue/3276308?__r=5220251
         </author>
         <link href="https://indiefferential.com/whats-new-special-edition-simonne-draper/"/>
         <id>https://indiefferential.com/whats-new-special-edition-simonne-draper/</id>
+        <media:content url="https://indiefferential.com/media/posts/503/indiefferential-magazine.jpg" medium="image" />
 
         <updated>2026-03-05T11:39:15+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://indiefferential.com/media/posts/503/indiefferential-magazine.jpg" alt="" />
                     A magazine created by artists featuring new music, games, books and art projects worldwide. The physical copies of the magazine are printed in the U.S. although we are working with editors both in the U.S. and Europe. Please refresh the page if the online preview&hellip;
@@ -338,19 +343,19 @@ https://www.magcloud.com/browse/issue/3276308?__r=5220251
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://indiefferential.com/media/posts/503/indiefferential-magazine.jpg" alt="" />
+                    <p><img src="https://indiefferential.com/media/posts/503/indiefferential-magazine.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center">A magazine created by artists featuring new music, games, books and art projects worldwide. The physical copies of the magazine are printed in the U.S. although we are working with editors both in the U.S. and Europe.</p>
 <h5 class="align-center">What's New Special Edition Simonne Draper (<strong>Printed Version</strong>)</h5>
-<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnsd" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
+<h5 class="align-center"><div class="post__iframe"><iframe width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnsd" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
 <p class="align-center">Please refresh the page if the online preview isn't loading.</p>
 <h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3278015" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
 <p class="align-center"><strong>Premium Print</strong></p>
 <p class="align-center">Paper: 70# White Coated<br>Cover: 70# Glossy Cover<br>Perfect Bound Paperback<br>US Letter<br>8.5 x 11 in | 216 x 279 mm</p>
 <h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=wnsd" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
-<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" data-is-external-image="true"  alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0"></p>
+<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0" data-is-external-image="true"></p>
 <div class="align-center">
 <div class="align-center"><address class="align-center"><hr>
-<p class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://i.ibb.co/zMs8fWR/whats-new.jpg" data-is-external-image="true"  alt="whats-new" border="0"></a></p>
+<p class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://i.ibb.co/zMs8fWR/whats-new.jpg" alt="whats-new" border="0" data-is-external-image="true"></a></p>
 <h5 class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">JOIN NOW</a></h5>
 <div class="align-center">
 <div class="align-center"><address class="align-center"><hr>
@@ -390,13 +395,14 @@ https://www.magcloud.com/browse/issue/3276308?__r=5220251
     <entry>
         <title>What&#x27;s New February Editions</title>
         <author>
-            <name>George S.</name>
+            <name>Indiefferential</name>
         </author>
         <link href="https://indiefferential.com/whats-new-february-editions-2/"/>
         <id>https://indiefferential.com/whats-new-february-editions-2/</id>
+        <media:content url="https://indiefferential.com/media/posts/496/indiefferential-magazine.jpg" medium="image" />
 
         <updated>2026-02-26T12:28:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://indiefferential.com/media/posts/496/indiefferential-magazine.jpg" alt="" />
                     A magazine created by artists featuring new music, games, books and art projects worldwide. The physical copies of the magazine are printed in the U.S. although we are working with editors both in the U.S. and Europe. Please refresh the page if the online preview&hellip;
@@ -404,19 +410,19 @@ https://www.magcloud.com/browse/issue/3276308?__r=5220251
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://indiefferential.com/media/posts/496/indiefferential-magazine.jpg" alt="" />
+                    <p><img src="https://indiefferential.com/media/posts/496/indiefferential-magazine.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center">A magazine created by artists featuring new music, games, books and art projects worldwide. The physical copies of the magazine are printed in the U.S. although we are working with editors both in the U.S. and Europe.</p>
 <h5 class="align-center">What's New February  Vol .4 Edition (<strong>Printed Version</strong>)</h5>
-<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnfeb4" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
+<h5 class="align-center"><div class="post__iframe"><iframe width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnfeb4" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
 <p class="align-center">Please refresh the page if the online preview isn't loading.</p>
 <h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3273539?__r=5220251" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
 <p class="align-center"><strong>Premium Print</strong></p>
 <p class="align-center">Paper: 70# White Coated<br>Cover: 70# Glossy Cover<br>Perfect Bound Paperback<br>US Letter<br>8.5 x 11 in | 216 x 279 mm</p>
 <h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=wnfeb4" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
-<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" data-is-external-image="true"  alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0"></p>
+<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0" data-is-external-image="true"></p>
 <div class="align-center">
 <div class="align-center"><address class="align-center"><hr>
-<p class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://i.ibb.co/zMs8fWR/whats-new.jpg" data-is-external-image="true"  alt="whats-new" border="0"></a></p>
+<p class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://i.ibb.co/zMs8fWR/whats-new.jpg" alt="whats-new" border="0" data-is-external-image="true"></a></p>
 <h5 class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">JOIN NOW</a></h5>
 <div class="align-center">
 <div class="align-center"><address class="align-center"><hr>
@@ -446,7 +452,7 @@ https://www.magcloud.com/browse/issue/3276308?__r=5220251
 <div class="align-center">
 <div class="align-center"><address class="align-center"><hr></address><address>
 <h5 class="align-center">What's New February  Vol .3 Edition (<strong>Printed Version</strong>)</h5>
-<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnfeb3" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
+<h5 class="align-center"><div class="post__iframe"><iframe width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnfeb3" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
 <p class="align-center">Please refresh the page if the online preview isn't loading.</p>
 <h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3266254?__r=5220251" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
 <p class="align-center"><strong>Premium Print</strong></p>
@@ -454,7 +460,7 @@ https://www.magcloud.com/browse/issue/3276308?__r=5220251
 <h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=wnfeb3" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
 <hr>
 <h5 class="align-center">What's New February  Vol .2 Edition (<strong>Printed Version</strong>)</h5>
-<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnfeb2" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
+<h5 class="align-center"><div class="post__iframe"><iframe width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnfeb2" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
 <p class="align-center">Please refresh the page if the online preview isn't loading.</p>
 <h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3261176?__r=5220251" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
 <p class="align-center"><strong>Premium Print</strong></p>
@@ -462,13 +468,13 @@ https://www.magcloud.com/browse/issue/3276308?__r=5220251
 <h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=wnfeb2" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
 <hr>
 <h5 class="align-center">What's New February  Vol .1 Edition (<strong>Printed Version</strong>)</h5>
-<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnf1" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
+<h5 class="align-center"><div class="post__iframe"><iframe width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnf1" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
 <p class="align-center">Please refresh the page if the online preview isn't loading.</p>
 <h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3258462?__r=5220251" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
 <p class="align-center"><strong>Premium Print</strong></p>
 <p class="align-center">Paper: 70# White Coated<br>Cover: 70# Glossy Cover<br>Perfect Bound Paperback<br>US Letter<br>8.5 x 11 in | 216 x 279 mm</p>
 <h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=wnf1" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
-<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" data-is-external-image="true"  alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0"></p>
+<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0" data-is-external-image="true"></p>
 <div class="align-center">
 <div class="align-center"><address class="align-center"> </address></div>
 </div>
@@ -482,13 +488,14 @@ https://www.magcloud.com/browse/issue/3276308?__r=5220251
     <entry>
         <title>Indiefferential Picks February Editions</title>
         <author>
-            <name>George S.</name>
+            <name>Indiefferential</name>
         </author>
         <link href="https://indiefferential.com/indiefferential-picks-february-editions/"/>
         <id>https://indiefferential.com/indiefferential-picks-february-editions/</id>
+        <media:content url="https://indiefferential.com/media/posts/501/indiefferential-magazine-4.jpg" medium="image" />
 
-        <updated>2026-02-19T23:46:21+02:00</updated>
-            <summary>
+        <updated>2026-02-19T23:46:11+02:00</updated>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://indiefferential.com/media/posts/501/indiefferential-magazine-4.jpg" alt="" />
                     Your go-to guide if you need to know about the best songs that make it into playlists and online radio shows. Indiefferential Picks includes our Spotify Playlist additions and many more! Premium Print Paper: 70# White Coated Cover: 70# Glossy Cover Perfect Bound Paperback US&hellip;
@@ -496,18 +503,18 @@ https://www.magcloud.com/browse/issue/3276308?__r=5220251
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://indiefferential.com/media/posts/501/indiefferential-magazine-4.jpg" alt="" />
+                    <p><img src="https://indiefferential.com/media/posts/501/indiefferential-magazine-4.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center">Your go-to guide if you need to know about the best songs that make it into playlists and online radio shows. Indiefferential Picks includes our Spotify Playlist additions and many more!</p>
 <h5 class="align-center">Indiefferential Picks February Vol .1 Edition (<strong>Printed Version</strong>)</h5>
-<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=ipf1" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
+<h5 class="align-center"><div class="post__iframe"><iframe width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=ipf1" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
 <h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3269528?__r=5220251" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
 <p class="align-center"><strong>Premium Print</strong></p>
 <p class="align-center">Paper: 70# White Coated<br>Cover: 70# Glossy Cover<br>Perfect Bound Paperback<br>US Letter<br>8.5 x 11 in | 216 x 279 mm</p>
 <h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=ipf1" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
-<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" data-is-external-image="true"  alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0"></p>
+<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0" data-is-external-image="true"></p>
 <div class="align-center">
 <div class="align-center"><address class="align-center"><hr>
-<p class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://i.ibb.co/zMs8fWR/whats-new.jpg" data-is-external-image="true"  alt="whats-new" border="0"></a></p>
+<p class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://i.ibb.co/zMs8fWR/whats-new.jpg" alt="whats-new" border="0" data-is-external-image="true"></a></p>
 <h5 class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">JOIN NOW</a></h5>
 <div class="align-center">
 <div class="align-center"><address class="align-center"><hr>
@@ -545,14 +552,15 @@ https://www.magcloud.com/browse/issue/3276308?__r=5220251
     <entry>
         <title>Apple, Spotify, and the Fine Art of the Digital Smirk</title>
         <author>
-            <name>George S.</name>
+            <name>Mark Hale</name>
         </author>
         <link href="https://indiefferential.com/apple-spotify-and-the-fine-art-of-the-digital-smirk/"/>
         <id>https://indiefferential.com/apple-spotify-and-the-fine-art-of-the-digital-smirk/</id>
+        <media:content url="https://indiefferential.com/media/posts/500/indiefferential-magazine.jpg" medium="image" />
             <category term="News"/>
 
-        <updated>2026-02-17T09:57:43+02:00</updated>
-            <summary>
+        <updated>2026-02-17T09:34:24+02:00</updated>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://indiefferential.com/media/posts/500/indiefferential-magazine.jpg" alt="" />
                     There are moments in modern technology that feel curiously familiar, like déjà vu served with a monthly bill. A soft-spoken email appears in your inbox. The price has gone up. Again. You breathe out heavily, mutter some unprintable word under your breath about “shareholder value,”&hellip;
@@ -560,9 +568,9 @@ https://www.magcloud.com/browse/issue/3276308?__r=5220251
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://indiefferential.com/media/posts/500/indiefferential-magazine.jpg" alt="" />
+                    <p><img src="https://indiefferential.com/media/posts/500/indiefferential-magazine.jpg" class="type:primaryImage" alt="" /></p>
                 <p>There are moments in modern technology that feel curiously familiar, like déjà vu served with a monthly bill. A soft-spoken email appears in your inbox. The price has gone up. Again. You breathe out heavily, mutter some unprintable word under your breath about “shareholder value,” and then, prompted as if on cue, someone else enters the room, looks at the bill, and says, “Funny you should mention that… we haven’t changed our price at all.” Such was the case when Spotify raised its subscription price once again, prompting Apple Music to raise an eyebrow and smirk in response.<br><br>“BTW, we’re still the same price.” That was it. One sentence. No exclamation marks. No emojis. No direct reference to Spotify whatsoever. But everyone knew exactly what was meant. It was corporate shade at its finest, less tabloid newspaper, more dinner party jab delivered over crystal glasses. Within minutes of its posting on X, the post spread like wildfire across tech blogs everywhere, reigniting one of the longest-standing feuds in modern music streaming history: Apple Music vs. Spotify. Not on music charts, not on spreadsheets. On timing. And timing, as Apple knows better than anyone else in the world, is everything.</p>
-<p class="align-center"><img loading="lazy" src="https://i.ibb.co/k2jr48Th/image.png" data-is-external-image="true"  alt="image" border="0"></p>
+<p class="align-center"><img loading="lazy" src="https://i.ibb.co/k2jr48Th/image.png" alt="image" border="0" data-is-external-image="true"></p>
 <p><br><br><strong>When the Bill Goes Up, the Mood Goes Down</strong><br><br>Spotify’s price increases have become like bad weather: predictable, unwelcome, and somehow always worse than you thought it was going to be. In the past year alone, subscription price increases have crept up across the United States, Europe, and Latin America under the familiar guise of “platform improvements” and “sustainable growth.”<br><br>And to be fair, Spotify isn't wrong. The cost of running the largest music streaming service on the planet is high. Licensing is expensive. Podcasts don't come cheap. Engineers, servers, and office space with exposed brick don't grow on trees. From a business perspective, Spotify is perfectly within its rights to raise its prices.<br><br>But we, the consumer, don't think in terms of spreadsheets or boardroom decisions. We think in spreadsheets of our own, the kind where Netflix went up, YouTube Premium went up, cloud storage snuck its way up, and the apps we thought we could afford to waste our time on now want the cost of a decent lunch every month.<br><br>And so, when Spotify raises its prices, it doesn't happen in a vacuum. It happens in an atmosphere of exhaustion. And it was into this atmosphere that Apple Music found the opening of a stadium.<br><br><strong>Apple Music’s Post: Small, Sharp, and Devastatingly Calm</strong><br><br>Apple Music didn't respond to Spotify. It didn't need to. The genius was in what it didn't say. There were no accusations, no gloating, simply the realization that everyone else seems to be passing the collection plate, but Apple Music is, apparently, standing still.<br><br>It was marketing judo, where Spotify swung the biggest punch, but Apple Music took the force of it and gently tipped it over.<br><br>Screenshots went viral. The tech press did what it does best: overanalyze the tone, the timing, the intent. The truth is, however, much simpler. Apple Music knew exactly how this would play out because they understand one thing about the consumer better than anyone else. People hate feeling nickelled and dimed, but love knowing they have choices.<br><br><strong>Two Giants, Two Philosophies</strong><br><br>Spotify and Apple Music are not simply competitors, they are philosophical opposites.<br><br>Spotify is expansive. It’s everywhere. It’s got free tiers and paid tiers and podcasts and audiobooks and algorithmically created playlists that seem to intuitively recognize your sadness before you’ve even realized you’re sad. It’s loud and social and infinitely customizable. To the user, Spotify might as well be the internet in music form.<br><br>Apple Music, meanwhile, is the opposite. It’s controlled. It’s curated. It doesn’t have a free tier. It doesn’t have chaos. It’s all about sound quality. It’s all about the ability to play lossless music and to integrate seamlessly into the Apple ecosystem. If you own an iPhone, a pair of AirPods, a MacBook, and an Apple Watch for some reason, then Apple Music just fits.<br><br>And the key here is this: when two services are relatively equal in price, the price becomes the determining factor. The minute price increase becomes the moment where the user thinks to themselves, “Wait a minute. Why exactly am I paying more for this again?”<br><br>Apple Music didn’t need to educate the user about the benefits of their service. Apple Music didn’t need to create a chart. Apple Music simply pointed at the price tag and said, “Hey, buddy. You’re welcome to go elsewhere. We’re not really concerned with your business.” <br><br><strong>Streaming’s New Phase: Less Growth, More Grit</strong><br><br>There was a time when music streaming services were all about growth. Growth was the end goal. Growth was the be-all and end-all. New users were the holy grail. Prices were kept low, trials were long, and everyone was just happy to pretend this was a viable long-term strategy.<br><br>Well, those days are behind us.<br><br>But let's be clear: this isn’t generosity. It’s strategy. Apple can afford to play the long game with music as part of a much broader overall picture. Spotify, as a streaming-first company, doesn’t have the luxury of playing the long game.<br><br><strong>Social Media: The New Battlefield</strong><br><br>So what makes this all particularly fascinating is the manner in which this played out. In the old days, a company might release a press statement with all the requisite PR doublespeak. Today, one tweet does more damage or good than a thousand-word press release.<br><br>Apple Music didn’t debate the point. It didn’t defend itself. It simply existed loudly at the exact moment Spotify made itself vulnerable. And the Internet did the rest.<br><br>This, dear reader, is the new world of brand warfare: fast, subtle, and ruthlessly effective.<br><br><strong>What It Means for the Consumer</strong><br><br>So what does this all mean for the consumer? The good news: it’s refreshingly simple. If Spotify’s prices are too high for you, well, Apple Music’s prices are the same as they were yesterday. If Apple Music doesn’t have the playlists or podcasts you love, well, Spotify will be happy to keep you as a customer for a slightly higher price.<br><br>At the end of the day, consumers really only care about three things: the price, the sound quality, and the user interface. And for the first time ever, price is climbing the list faster than ever.<br><br><strong>Final Notes from the Streaming Front</strong><br><br>So Apple Music’s statement may have been brief, but it said a thousand words. It said a lot about a market in trouble, a consumer base at the breaking point, and a rivalry far from over. One company hiked prices. The other gave a sly eyebrow.<br><br>And in the world of streaming today, the sly eyebrow might be the most deadly move of all.</p>
             ]]>
         </content>
@@ -574,11 +582,12 @@ https://www.magcloud.com/browse/issue/3276308?__r=5220251
         </author>
         <link href="https://indiefferential.com/a-conversation-with-shannon-darcy/"/>
         <id>https://indiefferential.com/a-conversation-with-shannon-darcy/</id>
+        <media:content url="https://indiefferential.com/media/posts/499/indiefferential-magazine-3.jpg" medium="image" />
             <category term="News"/>
             <category term="Interviews"/>
 
-        <updated>2026-02-17T01:43:02+02:00</updated>
-            <summary>
+        <updated>2026-02-15T23:39:46+02:00</updated>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://indiefferential.com/media/posts/499/indiefferential-magazine-3.jpg" alt="" />
                     Where can we find you right now and what are you up too? Well, at the moment I’m a full time uni student studying music in London. I’m doing a performance and production course, which I’m having so much fun with! I’ve been learning how&hellip;
@@ -586,11 +595,11 @@ https://www.magcloud.com/browse/issue/3276308?__r=5220251
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://indiefferential.com/media/posts/499/indiefferential-magazine-3.jpg" alt="" />
+                    <p><img src="https://indiefferential.com/media/posts/499/indiefferential-magazine-3.jpg" class="type:primaryImage" alt="" /></p>
                 <p><strong>Where can we find you right now and what are you up too?</strong><br><br>Well, at the moment I’m a full time uni student studying music in London. I’m doing a performance and production course, which I’m having so much fun with! I’ve been learning how to produce my own music and even doing my own compositions as I’m now learning to play piano too. I’ve always loved performing, so I’m really enjoying delving deeper into the music industry in a new way. Alongside this, with the release of ‘Control Freak’, I’ve been trying to build my online presence across my social media platforms and it’s been really fun filming new types of content to post so that people get to know me as an artist and as a person.<br><br><strong>How would you define success? What is your goal?</strong><br><br>For me, I just want people to enjoy my music. I want anyone who feels like they can relate to my songs, to be able to turn up the volume and head-bang to the lyrics or shout them out! I want to tour the world one day because I love being up on a stage and I love interacting with a crowd. Honestly, it means so much to me when someone tells me they can resonate with one of my songs, and that’s what I would define as a success. So, I guess my long term goal is to keep doing what I’m doing, but on a larger scale. I want to get my music out there, and it’s something I’m not going to give up on!</p>
-<p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="100%" height="352" style="border-radius: 12px;" data-testid="embed-iframe" src="https://open.spotify.com/embed/artist/7GfLRo8U1dHsRJ5xpdFBMZ?utm_source=generator" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>
+<p class="align-center"><div class="post__iframe"><iframe width="100%" height="352" style="border-radius: 12px;" data-testid="embed-iframe" src="https://open.spotify.com/embed/artist/7GfLRo8U1dHsRJ5xpdFBMZ?utm_source=generator" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>
 <p><br><br><strong>How did you start?</strong><br><br>I’ve always loved singing from a very young age and I can remember being in the car with my mum and singing along to different CD’s she had whenever we would go out. It was only when I was ten-years-old, that I realised I wanted to be an artist and that being on stage was just something I loved. I was on holiday at a caravan park and they were putting on a talent competition, which I decided to enter last minute. I remember being so nervous before going up on stage, I got upset and almost didn’t do it. Yet, as soon as I got up there and started singing, I didn’t want to stop! I knew from that moment that it was something I wanted to do for the rest of my life. From there, I ended up winning the competition and got to the National finals! I will always be grateful that I ended up getting on stage that day, as it really was the doorway that led me to where I am now.</p>
-<p class="align-center"><img loading="lazy" src="https://i.ibb.co/FkRp7G5r/image10-1.jpg" data-is-external-image="true"  alt="image10 (1)" border="0"></p>
+<p class="align-center"><img loading="lazy" src="https://i.ibb.co/FkRp7G5r/image10-1.jpg" alt="image10 (1)" border="0" data-is-external-image="true"></p>
 <p><br><br><strong>What is a typical day in your life as an artist?</strong><br><br>Right now, as an independent artist, it’s really just about trying to push myself out there and making noise about the new release! I’m always writing new music, and now that I’m at uni learning to do so much more, I’m able to put that into practise at home as well. As I mentioned previously, I’m always planning on new content to post on social media, and I’m trying at the moment to post multiple things everyday to keep my pages active. I have a lot of fun filming TikTok’s especially and recording song covers, so I guess a typical day really just consists of music and anything interesting I can post haha.<br><br><strong>What do you think of AI in music?</strong><br><br>I have never used AI in any of my music and personally it’s not something I’d probably ever use when it comes to creating anything musically. I’m a very creative person, so AI kind of takes that away from me and anyone else who enjoys the creative process of writing or composing a song. I understand that people use AI in a lot of different ways, but when you have people who work so hard putting their creative vision into a song and then compare it with a song made entirely from AI, I feel like it takes the opportunities away from that creative individual. It’s definitely a big conversation in the music industry at the moment, and I think in any creative industry too.<br><br><strong>Tell us about your latest or upcoming release.</strong><br><br>My song ‘Control Freak’ has just come out and I have to say it’s definitely one of my favourite songs I’ve done! It’s so petty and sarcastic, but it’s also a lot of fun to listen and sing along too. I feel like everyone at some point in their lives has dealt with who they’d label a ‘control freak’ and sometimes it’s nice to be able to air that frustration out in a bold and sassy way! It’s quite a different vibe to my other songs, but I love experimenting with different sounds and different genres too. I worked with an incredible producer, Jim Hustwit, who was able to create something exactly how I’d envisioned when I wrote the song.</p>
             ]]>
         </content>
@@ -598,13 +607,14 @@ https://www.magcloud.com/browse/issue/3276308?__r=5220251
     <entry>
         <title>What&#x27;s New Special Edition Mick J. Clark</title>
         <author>
-            <name>George S.</name>
+            <name>Indiefferential</name>
         </author>
         <link href="https://indiefferential.com/whats-new-special-edition-mick-j-clark/"/>
         <id>https://indiefferential.com/whats-new-special-edition-mick-j-clark/</id>
+        <media:content url="https://indiefferential.com/media/posts/498/indiefferential-magazine-2.jpg" medium="image" />
 
         <updated>2026-02-15T23:29:36+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://indiefferential.com/media/posts/498/indiefferential-magazine-2.jpg" alt="" />
                     A magazine created by artists featuring new music, games, books and art projects worldwide. The physical copies of the magazine are printed in the U.S. although we are working with editors both in the U.S. and Europe. Please refresh the page if the online preview&hellip;
@@ -612,19 +622,19 @@ https://www.magcloud.com/browse/issue/3276308?__r=5220251
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://indiefferential.com/media/posts/498/indiefferential-magazine-2.jpg" alt="" />
+                    <p><img src="https://indiefferential.com/media/posts/498/indiefferential-magazine-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center">A magazine created by artists featuring new music, games, books and art projects worldwide. The physical copies of the magazine are printed in the U.S. although we are working with editors both in the U.S. and Europe.</p>
 <h5 class="align-center">What's New Special Edition Mick J. Clark (<strong>Printed Version</strong>)</h5>
-<h5 class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnmjc" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
+<h5 class="align-center"><div class="post__iframe"><iframe width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=wnmjc" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
 <p class="align-center">Please refresh the page if the online preview isn't loading.</p>
 <h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3263776" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
 <p class="align-center"><strong>Premium Print</strong></p>
 <p class="align-center">Paper: 70# White Coated<br>Cover: 70# Glossy Cover<br>Perfect Bound Paperback<br>US Letter<br>8.5 x 11 in | 216 x 279 mm</p>
 <h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=wnmjc" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
-<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" data-is-external-image="true"  alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0"></p>
+<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0" data-is-external-image="true"></p>
 <div class="align-center">
 <div class="align-center"><address class="align-center"><hr>
-<p class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://i.ibb.co/zMs8fWR/whats-new.jpg" data-is-external-image="true"  alt="whats-new" border="0"></a></p>
+<p class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://i.ibb.co/zMs8fWR/whats-new.jpg" alt="whats-new" border="0" data-is-external-image="true"></a></p>
 <h5 class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">JOIN NOW</a></h5>
 <div class="align-center">
 <div class="align-center"><address class="align-center"><hr>
