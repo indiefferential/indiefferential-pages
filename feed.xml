@@ -3,12 +3,71 @@
     <title>Indiefferential</title>
     <link href="https://indiefferential.com/feed.xml" rel="self" />
     <link href="https://indiefferential.com" />
-    <updated>2026-08-16T12:40:59+03:00</updated>
+    <updated>2026-08-16T13:09:12+03:00</updated>
     <author>
         <name>George S.</name>
     </author>
     <id>https://indiefferential.com</id>
 
+    <entry>
+        <title>California&#x27;s Bid to Curb Live Event Ticket Resale Prices Dies in Session</title>
+        <author>
+            <name>Emily W. Coles</name>
+        </author>
+        <link href="https://indiefferential.com/californias-bid-to-curb-live-event-ticket-resale-prices-dies-in-session/"/>
+        <id>https://indiefferential.com/californias-bid-to-curb-live-event-ticket-resale-prices-dies-in-session/</id>
+        <media:content url="https://indiefferential.com/media/posts/497/pexels-photo-8261829_1024x576.jpg" medium="image" />
+            <category term="News"/>
+
+        <updated>2026-08-16T12:59:26+03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://indiefferential.com/media/posts/497/pexels-photo-8261829_1024x576.jpg" alt="" />
+                    California’s attempt to cap live event ticket resale prices at 10% above face value was put on hold for the current legislative session. The California Senate Appropriations Committee held AB 1720, known as the California Fans First Act, on its suspense file on August 13,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://indiefferential.com/media/posts/497/pexels-photo-8261829_1024x576.jpg" class="type:primaryImage" alt="" /></p>
+                <p>California’s attempt to cap live event ticket resale prices at 10% above face value was put on hold for the current legislative session. The California Senate Appropriations Committee held AB 1720, known as the California Fans First Act, on its suspense file on August 13, one day before the deadline for state fiscal committees to report bills to the floor.</p>
+<p>The bill, introduced in February by San Francisco Assemblymember Matt Haney, aimed to limit resale prices of concert and live event tickets to 10% above face value, including fees. It would have also capped fees charged by resale marketplaces. The measure was amended in May to cover only independent venues with capacities under 3,000, plus certain nonprofit venues.</p>
+<p>The bill defined an independent venue as one that derives a majority of its revenue from ticket events and is not majority-owned by a publicly traded company or operates more than 10 states. Professional sports and athletic events were exempted from the measure.</p>
+<p>California’s Department of Justice estimated the cost of enforcing AB 1720 at around $1.6 million in fiscal year 2026–27, decreasing to about $582,000 annually thereafter. The state's Department of Finance opposed the bill at an Appropriations hearing on August 3, citing enforcement costs and the potential burden on California courts.</p>
+<p>Asm. Matt Haney, who championed the bill, stated in a statement that he would continue pushing for solutions to address ticket resale practices. He emphasized that artists across genres have called for such measures and cited examples of other states and countries already adopting similar caps to curb predatory resale practices while allowing resales when necessary.</p>
+<p>Despite not being able to carry over into the next session, Haney indicated his intention to reintroduce a new bill once the Legislature reconvenes in December. Ron Gubitz, Executive Director of the Music Artists Coalition, expressed gratitude for Asm. Haney's advocacy but noted that protecting fans at every show remains essential.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Suno Studio Launches 2.0 With Enhanced Features</title>
+        <author>
+            <name>Mark Hale</name>
+        </author>
+        <link href="https://indiefferential.com/suno-studio-launches-20-with-enhanced-features/"/>
+        <id>https://indiefferential.com/suno-studio-launches-20-with-enhanced-features/</id>
+        <media:content url="https://indiefferential.com/media/posts/496/Suno_AI_icon.svg_1024x576.jpg" medium="image" />
+            <category term="News"/>
+
+        <updated>2026-08-16T12:58:26+03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://indiefferential.com/media/posts/496/Suno_AI_icon.svg_1024x576.jpg" alt="" />
+                    AI music company Suno announced the launch of Studio 2.0, a significant update to its browser-based digital audio workstation (DAW). The new version includes features such as MIDI support, a beta AI chat bar, and advanced stem separation, along with new audio effects and automations.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://indiefferential.com/media/posts/496/Suno_AI_icon.svg_1024x576.jpg" class="type:primaryImage" alt="" /></p>
+                <p>AI music company Suno announced the launch of Studio 2.0, a significant update to its browser-based digital audio workstation (DAW). The new version includes features such as MIDI support, a beta AI chat bar, and advanced stem separation, along with new audio effects and automations.</p>
+<p>Suno emphasizes that “Grammy-winning artists” have used Suno Studio in the past to create chart-topping hits. However, the company has also implemented stricter download limits for its free users. Free users will be limited to seven downloads per lifetime account, while Pro subscribers (at $8–$10 a month) and Premier subscribers (at $24–$30 a month) are restricted to 20 and 60 monthly downloads, respectively.</p>
+<p>Despite these changes, Suno Studio, available only to its Premier subscribers, will have no download limits. This move reflects Suno’s commitment to supporting musicians who use the platform for professional purposes.</p>
+<p>Henry Phipps, Suno’s Studio Product Manager, highlighted in a blog post that “perhaps our biggest takeaway from spending time with artists is their deep appreciation for the instruments and tools that have earned a place in their studios.” He emphasized the importance of maintaining access to traditional music foundations like guitars, drum machines, synths, effects, and step sequencers within the next generation of music software.</p>
+<p>Suno Studio 2.0’s most requested addition, MIDI support, allows users to import, record, and edit MIDI on the timeline. In a unique feature, MIDI clips can also be used as prompts for new audio generations generated by Studio. The chat bar, launching in beta, lets users interact with Suno “like you would any other collaborator,” suggesting it can create instruments and vocals, build custom plugins, or even tidy up sessions.</p>
+<p>Phipps noted that text prompts are useful for finding inspiration but emphasized that they are no substitute for playing a part on a MIDI keyboard or recording with a microphone. The chat feature is described as a tool to help musicians collaborate more effectively within the platform.</p>
+<p>Suno Studio 2.0 was unveiled alongside Suno’s global licensing alliance with BMG, marking the first rightsholder to license Suno since Warner Music Group settled its litigation and struck a deal with Suno in November 2025. In contrast, Universal Music Group and Sony Music remain in copyright</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Courtney Love&#x27;s New Album Update: A Rundown of Recent Health Scare</title>
         <author>
@@ -414,140 +473,6 @@
 </div>
 <div class="align-center">
 <div class="align-center"><address class="align-center"> </address></div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>What&#x27;s New? Rodney Atkins Special Edition (Printed Version)</title>
-        <author>
-            <name>Indiefferential</name>
-        </author>
-        <link href="https://indiefferential.com/whats-new-rodney-atkins-special-edition-printed-version/"/>
-        <id>https://indiefferential.com/whats-new-rodney-atkins-special-edition-printed-version/</id>
-        <media:content url="https://indiefferential.com/media/posts/476/indiefferential-magazine-1.jpg" medium="image" />
-
-        <updated>2026-07-20T13:07:42+03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://indiefferential.com/media/posts/476/indiefferential-magazine-1.jpg" alt="" />
-                    A magazine created by artists featuring new music, games, books and art projects worldwide. The physical copies of the magazine are printed in the U.S. although we are working with editors both in the U.S. and Europe. Premium Print Paper: 70# White Coated Cover: 70#&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://indiefferential.com/media/posts/476/indiefferential-magazine-1.jpg" class="type:primaryImage" alt="" /></p>
-                <p class="align-center">A magazine created by artists featuring new music, games, books and art projects worldwide. The physical copies of the magazine are printed in the U.S. although we are working with editors both in the U.S. and Europe.</p>
-<h5 class="align-center">What's New? Rodney Atkins Special Edition (Printed Version)</h5>
-<h5 class="align-center"><div class="post__iframe"><iframe width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://online.fliphtml5.com/kemkr/rodney_compressed/" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
-<h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3371417?__r=5220251" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
-<p class="align-center"><strong>Premium Print</strong></p>
-<p class="align-center">Paper: 70# White Coated<br>Cover: 70# Glossy Cover<br>Perfect Bound Paperback<br>US Letter<br>8.5 x 11 in | 216 x 279 mm</p>
-<h5 class="align-center"><a href="https://online.fliphtml5.com/kemkr/rodney_compressed/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
-<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0" data-is-external-image="true"></p>
-<div class="align-center">
-<div class="align-center"><address class="align-center"><hr>
-<p><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">You can </span><strong style="font-family: var(--font-base); font-size: 1.26562em; letter-spacing: var(--letter-spacing);"><a href="https://www.buymeacoffee.com/indiefferential" target="_blank" rel="noopener">buy us a coffee</a></strong><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);"> (5$) and you can have </span><strong style="font-family: var(--font-base); font-size: 1.26562em; letter-spacing: var(--letter-spacing);">a full page every month</strong><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);"> just for your projects on every printed issue of What's New? (3-4 per month). Perks:</span></p>
-</address></div>
-</div>
-<div class="align-center">
-<div class="align-center"><address class="align-center">
-<ol>
-<li><span class="OYPEnA text-decoration-none text-strikethrough-none">A </span><span class="OYPEnA text-decoration-none text-strikethrough-none"><strong>full page</strong> </span><span class="OYPEnA text-decoration-none text-strikethrough-none">in our magazine</span> <span class="OYPEnA text-decoration-none text-strikethrough-none">a </span><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">QR code</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> leading back to your release/social media.</span></li>
-<li><strong>2 additional pages only in the digital version of the magazine</strong> since there are many readers interested in the online version.</li>
-<li> </li>
-<li><span class="OYPEnA text-decoration-none text-strikethrough-none">You music/project</span> <strong><span class="OYPEnA text-decoration-none text-strikethrough-none">on our website</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> (Spotlight &amp; Artists section)</span></li>
-<li><span class="OYPEnA text-decoration-none text-strikethrough-none"><strong>Online Banners</strong> </span><span class="OYPEnA text-decoration-none text-strikethrough-none">promoting your project between our articles with links (instead of Google ads)</span></li>
-<li><span class="OYPEnA text-decoration-none text-strikethrough-none">We add the full page at the end of </span><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">every post on our social media</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> (carousel)</span> </li>
-<li><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">One additional photo on every carousel</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> post on Instagram (we post 4-7 days per week)</span></li>
-<li><span class="OYPEnA text-decoration-none text-strikethrough-none">Your </span><span class="OYPEnA text-decoration-none text-strikethrough-none"><strong>music</strong> </span><span class="OYPEnA text-decoration-none text-strikethrough-none">on </span><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">Indiefferential radio</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> streaming music 24/7 online</span></li>
-<li><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">We suggest your music/project</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> to our readers via our</span><span class="OYPEnA text-decoration-none text-strikethrough-none"> <strong>mailing list</strong></span><span class="OYPEnA text-decoration-none text-strikethrough-none"> (1-2 mails per month)</span></li>
-<li><strong>Billboard promo support</strong> (we run weekly promo campaigns on billboards across the world)</li>
-</ol>
-<h4 class="align-center">You can cancel anytime, see our magazine stats <strong><a href="https://indiefferential.com/feature/" target="_blank" rel="noopener noreferrer">here</a></strong></h4>
-</address></div>
-</div>
-<div class="align-center">
-<div class="align-center"><address class="align-center"> </address></div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Indiefferential Picks July 2026 (Printed Version)</title>
-        <author>
-            <name>Indiefferential</name>
-        </author>
-        <link href="https://indiefferential.com/indiefferential-picks-july-2026-printed-version/"/>
-        <id>https://indiefferential.com/indiefferential-picks-july-2026-printed-version/</id>
-        <media:content url="https://indiefferential.com/media/posts/474/indiefferential-magazine.jpg" medium="image" />
-
-        <updated>2026-07-15T12:37:46+03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://indiefferential.com/media/posts/474/indiefferential-magazine.jpg" alt="" />
-                    A magazine created by artists featuring new music, games, books and art projects worldwide. The physical copies of the magazine are printed in the U.S. although we are working with editors both in the U.S. and Europe. Premium Print Paper: 70# White Coated Cover: 70#&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://indiefferential.com/media/posts/474/indiefferential-magazine.jpg" class="type:primaryImage" alt="" /></p>
-                <p class="align-center">A magazine created by artists featuring new music, games, books and art projects worldwide. The physical copies of the magazine are printed in the U.S. although we are working with editors both in the U.S. and Europe.</p>
-<h5 class="align-center">Indiefferential Picks July 2026 (Printed Version)</h5>
-<h5 class="align-center"><div class="post__iframe"><iframe width="560" height="352" style="max-width: 100%; border-radius: 12px;" src="https://indieprint.github.io/preview/?magazine=ipjul26" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-mce-fragment="1"></iframe></div></h5>
-<h5 class="align-center"><a href="https://www.magcloud.com/browse/issue/3367664?__r=5220251" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">PRINTED VERSION</a></h5>
-<p class="align-center"><strong>Premium Print</strong></p>
-<p class="align-center">Paper: 70# White Coated<br>Cover: 70# Glossy Cover<br>Perfect Bound Paperback<br>US Letter<br>8.5 x 11 in | 216 x 279 mm</p>
-<h5 class="align-center"><a href="https://indieprint.github.io/preview/?magazine=ipjul26" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #c91515; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; font-family: sans-serif; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';">EBOOK VERSION</a></h5>
-<p class="align-center"><img loading="lazy" src="https://i.ibb.co/pjzYQP27/Instagram-Recom-Interview-ETC-2-Photoroom.png" alt="Instagram-Recom-Interview-ETC-2-Photoroom" width="178" height="124" border="0" data-is-external-image="true"></p>
-<div class="align-center">
-<div class="align-center"><address class="align-center"><hr>
-<p><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">You can </span><strong style="font-family: var(--font-base); font-size: 1.26562em; letter-spacing: var(--letter-spacing);"><a href="https://www.buymeacoffee.com/indiefferential" target="_blank" rel="noopener">buy us a coffee</a></strong><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);"> (5$) and you can have </span><strong style="font-family: var(--font-base); font-size: 1.26562em; letter-spacing: var(--letter-spacing);">a full page every month</strong><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);"> just for your projects on every printed issue of What's New? (3-4 per month). Perks:</span></p>
-</address></div>
-</div>
-<div class="align-center">
-<div class="align-center"><address class="align-center">
-<ol>
-<li><span class="OYPEnA text-decoration-none text-strikethrough-none">A </span><span class="OYPEnA text-decoration-none text-strikethrough-none"><strong>full page</strong> </span><span class="OYPEnA text-decoration-none text-strikethrough-none">in our magazine</span> <span class="OYPEnA text-decoration-none text-strikethrough-none">a </span><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">QR code</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> leading back to your release/social media.</span></li>
-<li><strong>2 additional pages only in the digital version of the magazine</strong> since there are many readers interested in the online version.</li>
-<li> </li>
-<li><span class="OYPEnA text-decoration-none text-strikethrough-none">You music/project</span> <strong><span class="OYPEnA text-decoration-none text-strikethrough-none">on our website</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> (Spotlight &amp; Artists section)</span></li>
-<li><span class="OYPEnA text-decoration-none text-strikethrough-none"><strong>Online Banners</strong> </span><span class="OYPEnA text-decoration-none text-strikethrough-none">promoting your project between our articles with links (instead of Google ads)</span></li>
-<li><span class="OYPEnA text-decoration-none text-strikethrough-none">We add the full page at the end of </span><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">every post on our social media</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> (carousel)</span> </li>
-<li><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">One additional photo on every carousel</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> post on Instagram (we post 4-7 days per week)</span></li>
-<li><span class="OYPEnA text-decoration-none text-strikethrough-none">Your </span><span class="OYPEnA text-decoration-none text-strikethrough-none"><strong>music</strong> </span><span class="OYPEnA text-decoration-none text-strikethrough-none">on </span><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">Indiefferential radio</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> streaming music 24/7 online</span></li>
-<li><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">We suggest your music/project</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> to our readers via our</span><span class="OYPEnA text-decoration-none text-strikethrough-none"> <strong>mailing list</strong></span><span class="OYPEnA text-decoration-none text-strikethrough-none"> (1-2 mails per month)</span></li>
-<li><strong>Billboard promo support</strong> (we run weekly promo campaigns on billboards across the world)</li>
-</ol>
-<h4 class="align-center">You can cancel anytime, see our magazine stats <strong><a href="https://indiefferential.com/feature/" target="_blank" rel="noopener noreferrer">here</a></strong></h4>
-</address></div>
-</div>
-<div class="align-center">
-<div class="align-center"><address class="align-center"><hr>
-<figure class="is-loaded"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer"><img  src="https://i.ibb.co/zMs8fWR/whats-new.jpg" alt="whats-new" border="0" loading="lazy" data-is-external-image="true" data-is-external-image="true"></figure></a></p>
-<h5 class="align-center"><a href="https://buymeacoffee.com/indiefferential/" target="_blank" rel="noopener noreferrer" onmouseover="this.style.backgroundColor='#a31212'; this.style.color='white';" onmouseout="this.style.backgroundColor='#c91515'; this.style.color='white';" style="background-color: #c91515; color: white;">JOIN NOW</a></h5>
-<div class="align-center">
-<div class="align-center"><address class="align-center"><hr>
-<p>You can <strong><a href="https://www.buymeacoffee.com/indiefferential" target="_blank" rel="noopener">buy us a coffee</a></strong> (5$) and you can have <strong>a full page every month</strong> just for your projects on every printed issue of What's New? (3-4 per month). Perks:</p>
-</address></div>
-</div>
-<div class="align-center">
-<div class="align-center"><address class="align-center">
-<ol>
-<li class="align-center"><span class="OYPEnA text-decoration-none text-strikethrough-none">A </span><span class="OYPEnA text-decoration-none text-strikethrough-none"><strong>full page</strong> </span><span class="OYPEnA text-decoration-none text-strikethrough-none">in our magazine</span> <span class="OYPEnA text-decoration-none text-strikethrough-none">a </span><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">QR code</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> leading back to your <strong>release/social media</strong>.</span></li>
-<li class="align-center"><strong>2 additional pages only in the digital version of the magazine</strong> since there are many readers interested in the online version.</li>
-<li class="align-center"> </li>
-<li class="align-center"><span class="OYPEnA text-decoration-none text-strikethrough-none">You music/project</span> <strong><span class="OYPEnA text-decoration-none text-strikethrough-none">on our website</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> (Spotlight &amp; Artists section)</span></li>
-<li class="align-center"><span class="OYPEnA text-decoration-none text-strikethrough-none"><strong>Online Banners</strong> </span><span class="OYPEnA text-decoration-none text-strikethrough-none">promoting your project between our articles with links (instead of Google ads)</span></li>
-<li class="align-center"><span class="OYPEnA text-decoration-none text-strikethrough-none">We add the full page at the end of </span><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">every post on our social media</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> (carousel)</span> </li>
-<li class="align-center"><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">One additional photo on every carousel</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> post on Instagram (we post 4-7 days per week)</span></li>
-<li class="align-center"><span class="OYPEnA text-decoration-none text-strikethrough-none">Your </span><span class="OYPEnA text-decoration-none text-strikethrough-none"><strong>music</strong> </span><span class="OYPEnA text-decoration-none text-strikethrough-none">on </span><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">Indiefferential radio</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> streaming music 24/7 online</span></li>
-<li class="align-center"><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">We suggest your music/project</span></strong><span class="OYPEnA text-decoration-none text-strikethrough-none"> to our readers via our</span><span class="OYPEnA text-decoration-none text-strikethrough-none"> <strong>mailing list</strong></span><span class="OYPEnA text-decoration-none text-strikethrough-none"> (1-2 mails per month)</span></li>
-<li class="align-center"><strong>Billboard promo support</strong> (we run weekly promo campaigns on billboards across the world)</li>
-</ol>
-</address></div>
-</div>
-</address></div>
 </div>
             ]]>
         </content>
