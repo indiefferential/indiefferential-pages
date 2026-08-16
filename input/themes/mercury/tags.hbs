@@ -1,0 +1,85 @@
+{{> head}}
+{{> navbar}}
+<main>
+   <div class="hero wrapper">
+      <p>
+         {{ translate 'tags.description' }}
+      </p>
+      <h1>
+         {{ translate 'tags.tagsPageTitle' }}
+         <sup>({{tagsNumber}})</sup>
+      </h1>    
+   </div>
+   {{#checkIf @config.custom.cardsLayout '==' "compact" }}
+      <ul class="l-col l-col{{@config.custom.layoutTags}}">
+         {{#each tags}}
+            <li
+               class="c-card">
+               <a href="{{url}}" class="c-card__link">
+                  {{#featuredImage}}
+                     {{#if url}}
+                        <div class="c-card__header">
+                           <img
+                              src="{{url}}"
+                              {{#if @config.site.responsiveImages}}
+                                {{responsiveImageAttributes 'tagImage' srcset sizes}}
+                              {{/if}}
+                              {{ lazyload "lazy" }}
+                              height="{{height}}"
+                              width="{{width}}"
+                              alt="{{alt}}">
+                        </div>
+                     {{/if}}
+                  {{/featuredImage}}
+                  <div class="c-card__body c-card__body--compact">
+                     <div class="c-card__text c-card__text--compact">
+                        <h2>
+                           {{name}}
+                        </h2>
+                        <p>
+                           {{postsNumber}}
+                        </p>
+                     </div>
+                  </div>
+               </a>
+            </li>
+         {{/each}}
+      </ul>
+   {{else}}
+      <ul class="l-col l-col{{@config.custom.layoutTags}}">
+         {{#each tags}}
+            <li
+               class="c-card">
+               <a href="{{url}}" class="c-card__link">
+                  {{#featuredImage}}
+                     {{#if url}}
+                        <div class="c-card__header">
+                           <img
+                              src="{{url}}"
+                              {{#if @config.site.responsiveImages}}
+                                 {{responsiveImageAttributes 'tagImage' srcset sizes}}
+                              {{/if}}
+                              {{ lazyload "lazy" }}
+                              height="{{height}}"
+                              width="{{width}}"
+                              alt="{{alt}}">
+                        </div>
+                     {{/if}}
+                  {{/featuredImage}}
+                  <div class="c-card__body">
+                     <div class="c-card__text">
+                        <h2>
+                           {{name}}
+                        </h2>
+                        <p>
+                           {{postsNumber}} {{ translate "tags.post" (math postsNumber '+' 0)}}
+                        </p>
+                     </div>
+                  </div>
+               </a>
+            </li>
+         {{/each}}
+      </ul>
+   {{/checkIf}}
+</main>
+{{> footer}}

@@ -1,0 +1,17 @@
+{{> head}}
+{{> navbar}}
+<main class="page page--search">
+    <div class="wrapper">
+        <div class="page__title page__title--centered">
+            <h1>
+                {{ translate 'search.title' }}
+            </h1>
+        </div>
+        <div class="container container--centered">
+            <div class="articles">
+                {{{@customSearchContent}}}  
+            </div>
+        </div>
+    </div>
+</main>
+{{> footer}}

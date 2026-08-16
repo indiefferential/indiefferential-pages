@@ -1,0 +1,105 @@
+{{> head}}
+    {{> navbar}}
+    <main class="main page page--author">
+        {{#author}}
+            <div class="hero">
+                {{#if authorViewConfig.displayAvatar}}
+                    {{#if avatar}}
+                        <img 
+                            src="{{avatarImage.url}}" 
+                            {{ lazyload "lazy" }}
+                            height="{{avatarImage.height}}"
+                            width="{{avatarImage.width}}" 
+                            class="page--author__thumb" 
+                            alt="{{avatarImage.alt}}">
+                    {{/if}}
+                {{/if}}
+                {{#if authorViewConfig.displayPostCounter}}
+                    <span class="hero__suptitle">
+                       {{postsNumber}}
+                       {{ translate "listing.post" (math postsNumber '+' 0)}}
+                    </span>
+                {{/if}}
+                <h1>{{name}}</h1>
+                {{#if authorViewConfig.displayDescription}} 
+                    {{#if description}}
+                        <div class="hero__meta wrapper">
+                            {{{description}}}
+                        </div>
+                    {{/if}}
+                {{/if}}
+                {{#if authorViewConfig.displayWebsite}} 
+                    {{#if website}}
+                    <div class="hero__meta page--author__website">                      
+                        <a href="{{website}}" target="_blank" rel="nofollow noreferrer noopener">
+                            <svg height="20" width="20" aria-hidden="true" stroke="var(--dark)" stroke-width="1.5">
+                               <use xlink:href="{{@website.assetsUrl}}/svg/svg-map.svg#website"/>
+                            </svg>
+                            {{ translate 'author.visitWebsite' }}
+                        </a>
+                    </div>
+                    {{/if}} 
+                {{/if}} 
+            </div>
+            {{#if authorViewConfig.displayPostList}} 
+                <div class="l-cards{{#if @config.custom.cardsReverse}} l-cards--reverse{{/if}}">
+                    {{#each ../posts}}
+                        <article class="c-card{{#if @config.custom.cardsFeaturedBadge}}{{#isFeatured}} c-card--featured{{/isFeatured}}{{/if}}">
+                            {{#featuredImage}}
+                                {{#if url}}
+                                    <a href="{{../url}}" class="c-card__image">
+                                        <img
+                                            src="{{url}}"
+                                            {{#if @config.site.responsiveImages}}
+                                                {{responsiveImageAttributes 'featuredImage' srcset.cards sizes.cards}}
+                                            {{/if}}
+                                            {{ lazyload "lazy" }}
+                                            height="{{height}}"
+                                            width="{{width}}"
+                                            alt="{{alt}}">
+                                    </a>
+                                {{/if}}
+                            {{/featuredImage}}
+                            <div class="c-card__text">
+                                <header>
+                                    <h2>
+                                        <a href="{{url}}" class="inverse">
+                                            {{title}}
+                                        </a>
+                                    </h2>
+                                    {{#checkIfAny @config.custom.cardsAuthor @config.custom.cardsDate}}
+                                        <p class="c-card__meta">
+                                            {{#author}}
+                                                {{#if @config.custom.cardsAuthor}}
+                                                    <a href="{{url}}" title="{{name}}">{{name}}</a>
+                                                {{/if}}
+                                            {{/author}}
+                                            {{#if @config.custom.cardsDate}}
+                                                <time datetime="{{date createdAt 'YYYY-MM-DDTHH:mm'}}">
+                                                    {{#checkIf @config.custom.formatDate '!=' 'custom'}}
+                                                        {{date createdAt @config.custom.formatDate}}
+                                                    {{else}}
+                                                        {{date createdAt @config.custom.formatDateCustom}}
+                                                    {{/checkIf}}
+                                                </time>
+                                            {{/if}}
+                                        </p>
+                                    {{/checkIfAny}}
+                                </header>
+                                {{#if @config.custom.cardsExcerpt}}
+                                    {{#if excerpt}}
+                                        <p class="c-card__desc">{{{excerpt}}}</p>
+                                    {{/if}}
+                                {{/if}}
+                                {{#if @config.custom.cardsReadmore}}
+                                    <a href="{{url}}" class="btn c-card__btn">{{ translate 'post.readMore' }}</a>
+                                {{/if}}
+                            </div>
+                        </article>
+                    {{/each}}
+                </div>          
+                {{> pagination}}
+           {{/if}}
+        {{/author}}
+    </main>
+{{> footer}}

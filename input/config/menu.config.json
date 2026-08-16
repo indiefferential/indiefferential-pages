@@ -1,0 +1,238 @@
+[
+    {
+        "name": "Menu",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1624309247220,
+                "label": "Features",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 199,
+                "cssClass": "",
+                "isHidden": false,
+                "items": [
+                    {
+                        "id": 1624314122258,
+                        "label": "Music Reviews",
+                        "title": "",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 1,
+                        "cssClass": "",
+                        "isHidden": true,
+                        "items": []
+                    },
+                    {
+                        "id": 1624381669506,
+                        "label": "Interviews",
+                        "title": "",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 2,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1654541999431,
+                        "label": "Culture",
+                        "title": "",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 40,
+                        "cssClass": "",
+                        "isHidden": true,
+                        "items": []
+                    },
+                    {
+                        "id": 1642587505579,
+                        "label": "Film Reviews",
+                        "title": "Film Reviews",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 35,
+                        "cssClass": "",
+                        "isHidden": true,
+                        "items": []
+                    },
+                    {
+                        "id": 1625861466437,
+                        "label": "Pedal Reviews",
+                        "title": "",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 21,
+                        "cssClass": "",
+                        "isHidden": true,
+                        "items": []
+                    }
+                ]
+            },
+            {
+                "id": 1627309243517,
+                "label": "Interviews",
+                "title": "",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 24,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1624111976654,
+                "label": "About",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 2,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1633863949197,
+                "label": "Podcasts",
+                "title": "podcasts",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 77,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1660303164379,
+                "label": "Events",
+                "title": "",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 27,
+                "cssClass": "",
+                "isHidden": false,
+                "items": [
+                    {
+                        "id": 1629842096622,
+                        "label": "Concert Reviews",
+                        "title": "",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 27,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
+            },
+            {
+                "id": 1657827367029,
+                "label": "Radio",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 36,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1624309238252,
+                "label": "Contact",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 5,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1626290626254,
+                "label": "Magazine",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 199,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1687861768226,
+                "label": "Spotlight",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 294,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1637925463668,
+                "label": "Store",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 73,
+                "cssClass": "",
+                "isHidden": true,
+                "items": []
+            },
+            {
+                "id": 1643370827331,
+                "label": "Subscribe",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 133,
+                "cssClass": "",
+                "isHidden": true,
+                "items": []
+            },
+            {
+                "id": 1727387973692,
+                "label": "Bookstore",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 376,
+                "cssClass": "",
+                "isHidden": true,
+                "items": []
+            },
+            {
+                "id": 1776269439780,
+                "label": "Charts",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 452,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            }
+        ]
+    }
+]

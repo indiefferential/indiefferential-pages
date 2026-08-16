@@ -1,0 +1,31 @@
+
+ <header class="header">
+     
+    <a class="logo" href="{{@website.url}}">
+        {{#if @website.logo}}
+            <img src="{{@website.logo}}" alt="{{@website.name}}" width="{{@website.logoSize.width}}" height="{{@website.logoSize.height}}">
+        {{else}}
+            {{@website.name}}
+        {{/if}}
+    </a>
+
+    {{#if @config.custom.searchFeature}}
+        <button class="search-btn" aria-label="{{ translate 'search.title' }}">
+            <svg role="presentation" focusable="false">
+                <use xlink:href="{{@website.assetsUrl}}/svg/svg-map.svg#search"/>
+            </svg>
+        </button>
+    {{/if}}
+
+    {{#if menus.mainMenu}}
+        <nav class="navbar js-navbar">
+            <button class="navbar__toggle js-toggle" aria-label="{{ translate 'partials.menu.menu' }}">
+                <span class="navbar__toggle-box">
+                <span class="navbar__toggle-inner">{{ translate 'partials.menu.menu' }}</span>
+                </span>
+            </button>
+            {{> menu menus.mainMenu}}
+        </nav>
+   {{/if}}
+
+</header>
