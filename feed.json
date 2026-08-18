@@ -24,7 +24,11 @@
                    "News"
             ],
             "date_published": "2026-08-16T23:59:20+03:00",
+<<<<<<< HEAD
             "date_modified": "2026-08-18T23:20:40+03:00"
+=======
+            "date_modified": "2026-08-17T00:25:06+03:00"
+>>>>>>> 7358e90e1e2385a37b48e3b026bf9f53d8184dbb
         },
         {
             "id": "https://indiefferential.com/kanye-west-vultures-2/",
@@ -88,7 +92,11 @@
                    "News"
             ],
             "date_published": "2026-08-16T17:02:45+03:00",
+<<<<<<< HEAD
             "date_modified": "2026-08-18T23:20:30+03:00"
+=======
+            "date_modified": "2026-08-16T17:36:48+03:00"
+>>>>>>> 7358e90e1e2385a37b48e3b026bf9f53d8184dbb
         },
         {
             "id": "https://indiefferential.com/bad-bunnys-lawyers-seek-reconsideration-of-reggaeton-copyright-case/",
