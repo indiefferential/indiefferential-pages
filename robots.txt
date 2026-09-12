@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://indiefferential.com/sitemap.xml
