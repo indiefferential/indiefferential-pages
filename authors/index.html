@@ -1136,7 +1136,7 @@
 
 &lt;nav class=&quot;author-index&quot; aria-label=&quot;Authors&quot;&gt;
 
-  &lt;a href=&quot;#ind-author-emily&quot;&gt;
+  &lt;a href=&quot;#ind-author-emily&quot; data-anchor-link&gt;
     &lt;small&gt;01 / Writer · Editor&lt;/small&gt;
 
     &lt;strong&gt;
@@ -1147,7 +1147,7 @@
     &lt;span&gt;Media · Culture · Strategy ↓&lt;/span&gt;
   &lt;/a&gt;
 
-  &lt;a href=&quot;#ind-author-george&quot;&gt;
+  &lt;a href=&quot;#ind-author-george&quot; data-anchor-link&gt;
     &lt;small&gt;02 / Editor in Chief&lt;/small&gt;
 
     &lt;strong&gt;
@@ -1158,7 +1158,7 @@
     &lt;span&gt;History · Interviews · Culture ↓&lt;/span&gt;
   &lt;/a&gt;
 
-  &lt;a href=&quot;#ind-author-mark&quot;&gt;
+  &lt;a href=&quot;#ind-author-mark&quot; data-anchor-link&gt;
     &lt;small&gt;03 / Writer · Editor&lt;/small&gt;
 
     &lt;strong&gt;
@@ -1169,7 +1169,7 @@
     &lt;span&gt;Guitars · Technology · Music ↓&lt;/span&gt;
   &lt;/a&gt;
 
-  &lt;a href=&quot;#ind-author-ville&quot;&gt;
+  &lt;a href=&quot;#ind-author-ville&quot; data-anchor-link&gt;
     &lt;small&gt;04 / Contributor&lt;/small&gt;
 
     &lt;strong&gt;
@@ -1946,6 +1946,37 @@
   &lt;/footer&gt;
 
 &lt;/article&gt;
+
+&lt;!-- ========================================================
+     ANCHOR-CLICK FIX
+     This page is loaded by the site builder inside a sandboxed
+     iframe (srcdoc), because it contains its own &lt;style&gt; block
+     (&quot;Isolated HTML design&quot; mode). Native fragment navigation
+     (href=&quot;#id&quot;) inside a srcdoc iframe can cause the frame to
+     reset/reload instead of smoothly scrolling, which is what
+     made the top kicker bar appear to &quot;pop back in&quot;. This script
+     intercepts clicks on in-page anchor links and scrolls to the
+     target manually instead of letting the browser navigate to
+     the fragment, so the iframe never reloads.
+======================================================== --&gt;
+&lt;script&gt;
+(function () {
+  document.querySelectorAll(&#39;.indie-authors-page a[data-anchor-link]&#39;).forEach(function (link) {
+    link.addEventListener(&#39;click&#39;, function (e) {
+      var id = this.getAttribute(&#39;href&#39;).slice(1);
+      var target = document.getElementById(id);
+      if (!target) return; // let the browser handle it if something&#39;s missing
+      e.preventDefault();
+      target.scrollIntoView({ behavior: &#39;smooth&#39;, block: &#39;start&#39; });
+      // Keep the URL shareable/bookmarkable without triggering a real
+      // fragment navigation (pushState doesn&#39;t cause iframe reloads).
+      if (history &amp;&amp; history.pushState) {
+        history.pushState(null, &#39;&#39;, &#39;#&#39; + id);
+      }
+    });
+  });
+})();
+&lt;/script&gt;
 
 &lt;script&gt;
 (function(){
