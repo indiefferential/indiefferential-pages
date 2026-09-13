@@ -146,33 +146,7 @@
   });
 })();
 </script>
-<script>
-(function(){
-  document.querySelectorAll('iframe[data-embed-src]').forEach(function(iframe){
-    var parent = iframe.parentElement;
-    if(!parent) return;
-    if(window.getComputedStyle(parent).position === 'static') parent.style.position = 'relative';
-    var service = iframe.getAttribute('data-embed-service') || 'this service';
-    var facade = document.createElement('button');
-    facade.type = 'button';
-    facade.className = 'embed-facade';
-    facade.style.position = 'absolute';
-    facade.style.top = '0';
-    facade.style.left = '0';
-    facade.style.width = '100%';
-    facade.style.height = '100%';
-    facade.innerHTML =
-      '<span class="embed-facade__play">▶</span>' +
-      '<span class="embed-facade__label">Click to load ' + service + '</span>' +
-      '<span class="embed-facade__note">Loads content from ' + service + ', which may set its own cookies.</span>';
-    facade.addEventListener('click', function(){
-      iframe.setAttribute('src', iframe.getAttribute('data-embed-src'));
-      facade.remove();
-    }, {once:true});
-    parent.insertBefore(facade, iframe);
-  });
-})();
-</script>
+
 <script>
 (function(){
   var KEY = 'idf_consent';
