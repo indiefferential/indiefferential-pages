@@ -1778,13 +1778,7 @@ footer {
     <div class="footer__copy"><p>© Indiefferential 2026 — Independent music and culture magazine</p></div>
   </div>
 </footer>
-<div class="cookie-consent" id="cookie-consent" hidden>
-  <p class="cookie-consent__text">We use cookies for essential site functionality. YouTube, Spotify, Soundcloud and Bandcamp players embedded in posts are only loaded after you click them, which may set that service’s own cookies. Newsletter sign-ups are processed by Web3Forms, a third-party form service. <a href="../terms/">Privacy Policy</a></p>
-  <div class="cookie-consent__actions">
-    <button type="button" class="cookie-consent__btn cookie-consent__btn--decline" id="cookie-consent-decline">Necessary Only</button>
-    <button type="button" class="cookie-consent__btn cookie-consent__btn--accept" id="cookie-consent-accept">Accept</button>
-  </div>
-</div>
+
 <script>
 (function(){
   document.querySelectorAll('.article-body .post__iframe, .article-body .post__video').forEach(function(box){
@@ -1796,24 +1790,7 @@ footer {
 })();
 </script>
 
-<script>
-(function(){
-  var KEY = 'idf_consent';
-  var banner = document.getElementById('cookie-consent');
-  if(!banner) return;
-  var stored = null;
-  try{ stored = localStorage.getItem(KEY); }catch(e){}
-  if(!stored) banner.hidden = false;
-  var accept = document.getElementById('cookie-consent-accept');
-  var decline = document.getElementById('cookie-consent-decline');
-  function choose(value){
-    try{ localStorage.setItem(KEY, value); }catch(e){}
-    banner.hidden = true;
-  }
-  if(accept) accept.addEventListener('click', function(){ choose('accepted'); });
-  if(decline) decline.addEventListener('click', function(){ choose('declined'); });
-})();
-</script>
+
 <script>
 (function(){
   var form = document.getElementById('newsletter-signup-form');
