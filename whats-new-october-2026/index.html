@@ -157,6 +157,18 @@ img { max-width: 100%; display: block; }
 .support-footer a { display: inline-block; background: var(--ink); color: white; padding: 15px 25px; text-decoration: none; font-size: 11px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; }
 .support-footer a:hover { background: var(--red); }
 
+.merch { width: min(1180px, 100%); margin: 40px auto 0; border: 1px solid var(--ink); background: #fff; display: grid; grid-template-columns: 1.2fr 1fr; text-align: left; box-shadow: var(--shadow); }
+.merch-images { display: grid; grid-template-columns: 1fr 1fr; background: var(--soft); border-right: 1px solid var(--ink); }
+.merch-images.single { grid-template-columns: 1fr; }
+.merch-images img { width: 100%; height: 100%; object-fit: cover; aspect-ratio: 1 / 1; }
+.merch-images img + img { border-left: 1px solid var(--ink); }
+.merch-info { padding: 40px 35px; display: flex; flex-direction: column; justify-content: center; align-items: flex-start; gap: 14px; }
+.merch-kicker { color: var(--red); font-size: 11px; font-weight: 700; letter-spacing: .18em; text-transform: uppercase; }
+.merch-name { margin: 0; font-family: var(--serif); font-size: clamp(28px, 3.5vw, 44px); line-height: .98; letter-spacing: -1px; }
+.merch-desc { margin: 0; line-height: 1.6; font-size: 15px; max-width: 420px; }
+.merch-button { display: inline-block; background: var(--ink); color: white; padding: 15px 25px; text-decoration: none; font-size: 11px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; }
+.merch-button:hover { background: var(--red); }
+
 .editorial-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 70px; align-items: start; }
 .editorial-large { font-family: var(--serif); font-size: clamp(35px, 5vw, 65px); line-height: .95; letter-spacing: -2px; margin: 0; }
 .editorial-copy { font-size: 16px; line-height: 1.8; color: #292929; }
@@ -215,6 +227,9 @@ footer { padding: 45px 0; background: var(--ink); color: white; }
   .support-perk:last-child { border-bottom: 0; }
   .support-footer { flex-direction: column; align-items: stretch; }
   .support-footer a { text-align: center; }
+  .merch { grid-template-columns: 1fr; }
+  .merch-images { border-right: 0; border-bottom: 1px solid var(--ink); }
+  .merch-info { padding: 28px 25px; }
   .footer-grid { grid-template-columns: 1fr; gap: 35px; }
 }
 &lt;/style&gt;
@@ -247,7 +262,7 @@ footer { padding: 45px 0; background: var(--ink); color: white; }
 
     &lt;div class=&quot;issue-header&quot;&gt;
 
-      &lt;div class=&quot;issue-kicker&quot;&gt;October&lt;/div&gt;
+      &lt;div class=&quot;issue-kicker&quot;&gt;October editions&lt;/div&gt;
 
       &lt;h2 class=&quot;issue-title&quot;&gt;
         What&#39;s New October
@@ -482,6 +497,22 @@ footer { padding: 45px 0; background: var(--ink); color: white; }
 
         &lt;a href=&quot;https://buymeacoffee.com/indiefferential/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Buy Us a Coffee →&lt;/a&gt;
 
+      &lt;/div&gt;
+
+    &lt;/div&gt;
+
+    &lt;div class=&quot;merch&quot;&gt;
+
+      &lt;div class=&quot;merch-images&quot;&gt;
+        &lt;img src=&quot;https://images.teepublic.com/derived/production/designs/99837924_0/1791196401/i_m:bi_production_blanks_mtl53ofohwq5goqjo9ke_1462829015,c_0_0_470x,s_630,q_90.jpg&quot; alt=&quot;What&#39;s New? October Vol. 1 T-Shirt&quot; loading=&quot;lazy&quot;&gt;
+        &lt;img src=&quot;https://images.teepublic.com/derived/production/designs/99837924_0/1791196401/i_p:c_191919,s_630,q_90.jpg&quot; alt=&quot;What&#39;s New? October Vol. 1 T-Shirt — design&quot; loading=&quot;lazy&quot;&gt;
+      &lt;/div&gt;
+
+      &lt;div class=&quot;merch-info&quot;&gt;
+        &lt;div class=&quot;merch-kicker&quot;&gt;Official Merch&lt;/div&gt;
+        &lt;h3 class=&quot;merch-name&quot;&gt;What&#39;s New? October Vol. 1 T-Shirt&lt;/h3&gt;
+        &lt;p class=&quot;merch-desc&quot;&gt;A Tee with the name of every featured artist, so you can promote your favorite musicians!&lt;/p&gt;
+        &lt;a href=&quot;https://spcecho.dashery.com/products/99837924-whats-new-october-vol-1-t-shirt&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; class=&quot;merch-button&quot;&gt;Get Yours Now →&lt;/a&gt;
       &lt;/div&gt;
 
     &lt;/div&gt;

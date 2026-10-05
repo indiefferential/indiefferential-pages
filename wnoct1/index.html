@@ -916,6 +916,100 @@
        RESPONSIVE
     ========================================================= */
 
+    /* =========================================================
+       MERCH PREVIEW
+    ========================================================= */
+
+    .merch-section {
+      padding-top: 0;
+    }
+
+    .merch {
+      display: grid;
+      grid-template-columns: 1.2fr 1fr;
+
+      border: 1px solid var(--ink);
+      background: #fff;
+      box-shadow: var(--shadow);
+    }
+
+    .merch-images {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+
+      background: var(--soft);
+      border-right: 1px solid var(--ink);
+    }
+
+    .merch-images.single {
+      grid-template-columns: 1fr;
+    }
+
+    .merch-images img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      aspect-ratio: 1 / 1;
+    }
+
+    .merch-images img + img {
+      border-left: 1px solid var(--ink);
+    }
+
+    .merch-info {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: flex-start;
+      gap: 14px;
+
+      padding: 40px 35px;
+    }
+
+    .merch-kicker {
+      color: var(--red);
+
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: .16em;
+      text-transform: uppercase;
+    }
+
+    .merch-name {
+      margin: 0;
+
+      font-family: var(--serif);
+      font-size: clamp(28px, 3.5vw, 44px);
+      letter-spacing: -.04em;
+      line-height: .98;
+    }
+
+    .merch-desc {
+      margin: 0;
+      max-width: 420px;
+
+      font-size: 15px;
+      line-height: 1.6;
+    }
+
+    @media (max-width: 900px) {
+
+      .merch {
+        grid-template-columns: 1fr;
+      }
+
+      .merch-images {
+        border-right: 0;
+        border-bottom: 1px solid var(--ink);
+      }
+
+      .merch-info {
+        padding: 28px 25px;
+      }
+
+    }
+
     @media (max-width: 900px) {
 
       .hero-grid,
@@ -1147,7 +1241,7 @@ opportunities, you&#39;re also welcome to follow &lt;strong style=&quot;color: #
 
       &lt;p&gt;
         Your feature is included in the
-        &lt;strong style=&quot;color: #e21b2d;&quot;&gt;What&#39;s New September Vol. 2 Edition&lt;/strong&gt;
+        &lt;strong style=&quot;color: #e21b2d;&quot;&gt;What&#39;s New October Vol. 1 Edition&lt;/strong&gt;
         printed magazine.
       &lt;/p&gt;
 
@@ -1180,7 +1274,7 @@ opportunities, you&#39;re also welcome to follow &lt;strong style=&quot;color: #
       &lt;/h3&gt;
 
       &lt;p&gt;
-        Explore the complete  &lt;strong style=&quot;color: #e21b2d;&quot;&gt;What&#39;s New September Vol. 2 Edition&lt;/strong&gt;
+        Explore the complete  &lt;strong style=&quot;color: #e21b2d;&quot;&gt;What&#39;s New October Vol. 1 Edition&lt;/strong&gt;
         through the digital magazine viewer. A preview of your article will also stay permanently 
         &lt;a href=&quot;https://indiefferential.com/tags/print/&quot; style=&quot;font-weight: bold;&quot;&gt;here&lt;/a&gt;.
       &lt;/p&gt;
@@ -1214,7 +1308,7 @@ opportunities, you&#39;re also welcome to follow &lt;strong style=&quot;color: #
       &lt;/h3&gt;
 
       &lt;p&gt;
-        Visit the  &lt;strong style=&quot;color: #e21b2d;&quot;&gt;What&#39;s New September Vol. 2 Edition&lt;/strong&gt; page and explore the
+        Visit the  &lt;strong style=&quot;color: #e21b2d;&quot;&gt;What&#39;s New October Vol. 1 Edition&lt;/strong&gt; page and explore the
         printed edition online.
       &lt;/p&gt;
 
@@ -1222,7 +1316,7 @@ opportunities, you&#39;re also welcome to follow &lt;strong style=&quot;color: #
 
         &lt;a
           class=&quot;button&quot;
-          href=&quot;https://indiefferential.com/whats-new-october-2026&quot;
+          href=&quot;https://indiefferential.com/whats-new-october-2026/&quot;
           target=&quot;_blank&quot;
           rel=&quot;noopener noreferrer&quot;
         &gt;
@@ -1260,7 +1354,7 @@ opportunities, you&#39;re also welcome to follow &lt;strong style=&quot;color: #
         &lt;/p&gt;
 
         &lt;p class=&quot;feature-copy&quot;&gt;
-          The What&#39;s New September Vol. 2 Edition is available through
+          The What&#39;s New October Vol. 1 Edition is available through
           our online magazine viewer, allowing readers to explore the
           complete printed edition digitally.
         &lt;/p&gt;
@@ -1278,7 +1372,7 @@ opportunities, you&#39;re also welcome to follow &lt;strong style=&quot;color: #
 
           &lt;a
             class=&quot;button secondary&quot;
-            href=&quot;https://indiefferential.com/whats-new-october-2026&quot;
+            href=&quot;https://indiefferential.com/whats-new-october-2026/&quot;
             target=&quot;_blank&quot;
             rel=&quot;noopener noreferrer&quot;
           &gt;
@@ -1385,6 +1479,18 @@ opportunities, you&#39;re also welcome to follow &lt;strong style=&quot;color: #
 
     &lt;/div&gt;
 
+  &lt;/section&gt;
+
+  &lt;section class=&quot;section merch-section&quot;&gt;
+    &lt;div class=&quot;merch&quot;&gt;
+      &lt;div class=&quot;merch-images&quot;&gt;&lt;img src=&quot;https://images.teepublic.com/derived/production/designs/99837924_0/1791196401/i_m:bi_production_blanks_mtl53ofohwq5goqjo9ke_1462829015,c_0_0_470x,s_630,q_90.jpg&quot; alt=&quot;What&#39;s New? October Vol. 1 T-Shirt&quot; loading=&quot;lazy&quot;&gt;&lt;img src=&quot;https://images.teepublic.com/derived/production/designs/99837924_0/1791196401/i_p:c_191919,s_630,q_90.jpg&quot; alt=&quot;What&#39;s New? October Vol. 1 T-Shirt — design&quot; loading=&quot;lazy&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;merch-info&quot;&gt;
+        &lt;div class=&quot;merch-kicker&quot;&gt;Official Merch&lt;/div&gt;
+        &lt;h3 class=&quot;merch-name&quot;&gt;What&#39;s New? October Vol. 1 T-Shirt&lt;/h3&gt;
+        &lt;p class=&quot;merch-desc&quot;&gt;A Tee with the name of every featured artist, so you can promote your favorite musicians!&lt;/p&gt;
+        &lt;a class=&quot;button&quot; href=&quot;https://spcecho.dashery.com/products/99837924-whats-new-october-vol-1-t-shirt&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Get Yours Now →&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
   &lt;/section&gt;
 
 
